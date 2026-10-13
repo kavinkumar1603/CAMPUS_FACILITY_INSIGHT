@@ -1,0 +1,6 @@
+dataset,rows,columns,missing_cells,exact_duplicate_rows
+Bookings,1059,5,0,15
+Facilities,10,4,0,0
+Occupancy,18920,3,90,0
+Calendar,86,4,53,0
+Maintenance,24,3,5,0

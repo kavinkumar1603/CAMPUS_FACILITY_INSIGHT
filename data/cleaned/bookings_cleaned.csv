@@ -1,0 +1,1045 @@
+facility,date,start,end,purpose,booking_duration_hours,start_hour,start_time,end_time,working_day,event,exam_period
+CR-101,2026-01-05,0 days 15:00:00,0 days 16:00:00,Make-up Class,1.0,15.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-05,0 days 17:00:00,0 days 19:00:00,Make-up Class,2.0,17.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-05,0 days 16:00:00,0 days 17:00:00,Make-up Class,1.0,16.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-05,0 days 10:00:00,0 days 11:00:00,Seminar,1.0,10.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-05,0 days 14:00:00,0 days 15:00:00,Tutorial,1.0,14.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-05,0 days 16:00:00,0 days 18:00:00,Workshop,2.0,16.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-05,0 days 12:00:00,0 days 14:00:00,Practical Exam,2.0,12.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-05,0 days 17:00:00,0 days 19:00:00,Practical Lab,2.0,17.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-05,0 days 14:00:00,0 days 16:00:00,Experiment,2.0,14.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-05,0 days 11:00:00,0 days 13:00:00,Practical Lab,2.0,11.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-05,0 days 17:00:00,0 days 18:00:00,Group Study,1.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-05,0 days 10:00:00,0 days 11:00:00,Group Study,1.0,10.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-05,0 days 15:00:00,0 days 17:00:00,Study,2.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-05,0 days 14:00:00,0 days 15:00:00,Reading Session,1.0,14.0,0 day,0 day,True,No Event,False
+AUD-1,2026-01-05,0 days 08:00:00,0 days 09:00:00,Guest Talk,1.0,8.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-05,0 days 14:00:00,0 days 16:00:00,Club Meeting,2.0,14.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-06,0 days 16:00:00,0 days 17:00:00,Make-up Class,1.0,16.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-06,0 days 12:00:00,0 days 14:00:00,Seminar,2.0,12.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-06,0 days 10:00:00,0 days 13:00:00,Lecture,3.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-06,0 days 10:00:00,0 days 11:00:00,Make-up Class,1.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-06,0 days 12:00:00,0 days 14:00:00,Tutorial,2.0,12.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-06,0 days 16:00:00,0 days 17:00:00,Tutorial,1.0,16.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-06,0 days 16:00:00,0 days 18:00:00,Lecture,2.0,16.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-06,0 days 09:00:00,0 days 11:00:00,Seminar,2.0,9.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-06,0 days 17:00:00,0 days 19:00:00,Seminar,2.0,17.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-06,0 days 15:00:00,0 days 16:00:00,Workshop,1.0,15.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-06,0 days 12:00:00,0 days 13:00:00,Programming Lab,1.0,12.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-06,0 days 15:00:00,0 days 18:00:00,Programming Lab,3.0,15.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-06,0 days 16:00:00,0 days 17:00:00,Experiment,1.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-06,0 days 16:00:00,0 days 18:00:00,Study,2.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-06,0 days 14:00:00,0 days 17:00:00,Reading Session,3.0,14.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-06,0 days 08:00:00,0 days 09:00:00,Reading Session,1.0,8.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-06,0 days 16:00:00,0 days 19:00:00,Informal Study,3.0,16.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-06,0 days 10:00:00,0 days 11:00:00,Club Meeting,1.0,10.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-07,0 days 09:00:00,0 days 10:00:00,Tutorial,1.0,9.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-07,0 days 17:00:00,0 days 19:00:00,Make-up Class,2.0,17.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-07,0 days 14:00:00,0 days 16:00:00,Seminar,2.0,14.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-07,0 days 13:00:00,0 days 15:00:00,Seminar,2.0,13.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-07,0 days 09:00:00,0 days 10:00:00,Seminar,1.0,9.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-07,0 days 14:00:00,0 days 15:00:00,Lecture,1.0,14.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-07,0 days 08:00:00,0 days 10:00:00,Make-up Class,2.0,8.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-07,0 days 17:00:00,0 days 18:00:00,Lecture,1.0,17.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-07,0 days 16:00:00,0 days 17:00:00,Lecture,1.0,16.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-07,0 days 12:00:00,0 days 13:00:00,Workshop,1.0,12.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-07,0 days 16:00:00,0 days 18:00:00,Practical Lab,2.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-07,0 days 12:00:00,0 days 14:00:00,Reading Session,2.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-07,0 days 16:00:00,0 days 19:00:00,Group Study,3.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-07,0 days 08:00:00,0 days 09:00:00,Reading Session,1.0,8.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-07,0 days 16:00:00,0 days 17:00:00,Study,1.0,16.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-07,0 days 16:00:00,0 days 19:00:00,Student Activity,3.0,16.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-07,0 days 09:00:00,0 days 12:00:00,Student Activity,3.0,9.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-08,0 days 14:00:00,0 days 15:00:00,Seminar,1.0,14.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-08,0 days 17:00:00,0 days 18:00:00,Make-up Class,1.0,17.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-08,0 days 14:00:00,0 days 15:00:00,Make-up Class,1.0,14.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-08,0 days 10:00:00,0 days 13:00:00,Make-up Class,3.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-08,0 days 17:00:00,0 days 19:00:00,Seminar,2.0,17.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-08,0 days 08:00:00,0 days 09:00:00,Tutorial,1.0,8.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-08,0 days 17:00:00,0 days 19:00:00,Lecture,2.0,17.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-08,0 days 12:00:00,0 days 13:00:00,Make-up Class,1.0,12.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-08,0 days 09:00:00,0 days 10:00:00,Tutorial,1.0,9.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-08,0 days 11:00:00,0 days 14:00:00,Programming Lab,3.0,11.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-08,0 days 12:00:00,0 days 14:00:00,Workshop,2.0,12.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-08,0 days 09:00:00,0 days 10:00:00,Workshop,1.0,9.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-08,0 days 14:00:00,0 days 16:00:00,Lab Assessment,2.0,14.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-08,0 days 13:00:00,0 days 14:00:00,Reading Session,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-08,0 days 17:00:00,0 days 18:00:00,Study,1.0,17.0,0 day,0 day,True,No Event,False
+AUD-1,2026-01-08,0 days 11:00:00,0 days 14:00:00,Guest Talk,3.0,11.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-08,0 days 09:00:00,0 days 10:00:00,Club Meeting,1.0,9.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-08,0 days 10:00:00,0 days 11:00:00,Club Meeting,1.0,10.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-09,0 days 15:00:00,0 days 16:00:00,Seminar,1.0,15.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-09,0 days 10:00:00,0 days 11:00:00,Make-up Class,1.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-09,0 days 16:00:00,0 days 19:00:00,Seminar,3.0,16.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-09,0 days 12:00:00,0 days 14:00:00,Lecture,2.0,12.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-09,0 days 16:00:00,0 days 17:00:00,Seminar,1.0,16.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-09,0 days 14:00:00,0 days 15:00:00,Lecture,1.0,14.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-09,0 days 13:00:00,0 days 16:00:00,Make-up Class,3.0,13.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-09,0 days 16:00:00,0 days 17:00:00,Seminar,1.0,16.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-09,0 days 17:00:00,0 days 18:00:00,Tutorial,1.0,17.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-09,0 days 13:00:00,0 days 14:00:00,Seminar,1.0,13.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-09,0 days 12:00:00,0 days 13:00:00,Programming Lab,1.0,12.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-09,0 days 12:00:00,0 days 13:00:00,Workshop,1.0,12.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-09,0 days 08:00:00,0 days 10:00:00,Lab Assessment,2.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-09,0 days 11:00:00,0 days 14:00:00,Practical Lab,3.0,11.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-09,0 days 13:00:00,0 days 14:00:00,Lab Assessment,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-09,0 days 08:00:00,0 days 09:00:00,Group Study,1.0,8.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-09,0 days 12:00:00,0 days 13:00:00,Study,1.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-09,0 days 14:00:00,0 days 15:00:00,Study,1.0,14.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-09,0 days 16:00:00,0 days 17:00:00,Group Study,1.0,16.0,0 day,0 day,True,No Event,False
+AUD-1,2026-01-09,0 days 17:00:00,0 days 19:00:00,Cultural Program,2.0,17.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-09,0 days 15:00:00,0 days 16:00:00,Informal Study,1.0,15.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-09,0 days 15:00:00,0 days 18:00:00,Informal Study,3.0,15.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-10,0 days 17:00:00,0 days 18:00:00,Lecture,1.0,17.0,0 day,0 day,False,Weekend,False
+CR-102,2026-01-10,0 days 08:00:00,0 days 09:00:00,Seminar,1.0,8.0,0 day,0 day,False,Weekend,False
+LAB-2,2026-01-10,0 days 08:00:00,0 days 10:00:00,Experiment,2.0,8.0,0 day,0 day,False,Weekend,False
+CR-101,2026-01-12,0 days 15:00:00,0 days 17:00:00,Tutorial,2.0,15.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-12,0 days 09:00:00,0 days 12:00:00,Tutorial,3.0,9.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-12,0 days 12:00:00,0 days 14:00:00,Make-up Class,2.0,12.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-12,0 days 14:00:00,0 days 15:00:00,Seminar,1.0,14.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-12,0 days 11:00:00,0 days 14:00:00,Seminar,3.0,11.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-12,0 days 17:00:00,0 days 19:00:00,Lecture,2.0,17.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-12,0 days 17:00:00,0 days 18:00:00,Practical Exam,1.0,17.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-12,0 days 09:00:00,0 days 10:00:00,Lab Assessment,1.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-12,0 days 11:00:00,0 days 12:00:00,Study,1.0,11.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-12,0 days 09:00:00,0 days 10:00:00,Study,1.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-12,0 days 10:00:00,0 days 12:00:00,Reading Session,2.0,10.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-12,0 days 09:00:00,0 days 11:00:00,Group Study,2.0,9.0,0 day,0 day,True,No Event,False
+SEM-1,2026-01-12,0 days 14:00:00,0 days 17:00:00,Guest Lecture,3.0,14.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-12,0 days 08:00:00,0 days 09:00:00,Club Meeting,1.0,8.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-12,0 days 13:00:00,0 days 14:00:00,Club Meeting,1.0,13.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-13,0 days 13:00:00,0 days 15:00:00,Make-up Class,2.0,13.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-13,0 days 17:00:00,0 days 19:00:00,Tutorial,2.0,17.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-13,0 days 13:00:00,0 days 14:00:00,Lecture,1.0,13.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-13,0 days 13:00:00,0 days 15:00:00,Lecture,2.0,13.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-13,0 days 10:00:00,0 days 11:00:00,Make-up Class,1.0,10.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-13,0 days 10:00:00,0 days 13:00:00,Make-up Class,3.0,10.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-13,0 days 09:00:00,0 days 11:00:00,Tutorial,2.0,9.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-13,0 days 09:00:00,0 days 11:00:00,Workshop,2.0,9.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-13,0 days 13:00:00,0 days 15:00:00,Workshop,2.0,13.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-13,0 days 16:00:00,0 days 17:00:00,Programming Lab,1.0,16.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-13,0 days 13:00:00,0 days 15:00:00,Experiment,2.0,13.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-13,0 days 12:00:00,0 days 13:00:00,Practical Lab,1.0,12.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-13,0 days 12:00:00,0 days 15:00:00,Experiment,3.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-13,0 days 13:00:00,0 days 14:00:00,Reading Session,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-13,0 days 08:00:00,0 days 09:00:00,Study,1.0,8.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-13,0 days 16:00:00,0 days 17:00:00,Reading Session,1.0,16.0,0 day,0 day,True,No Event,False
+AUD-1,2026-01-13,0 days 14:00:00,0 days 15:00:00,College Event,1.0,14.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-13,0 days 14:00:00,0 days 15:00:00,Informal Study,1.0,14.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-16,0 days 13:00:00,0 days 15:00:00,Tutorial,2.0,13.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-16,0 days 11:00:00,0 days 12:00:00,Lecture,1.0,11.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-16,0 days 15:00:00,0 days 17:00:00,Make-up Class,2.0,15.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-16,0 days 15:00:00,0 days 17:00:00,Seminar,2.0,15.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-16,0 days 08:00:00,0 days 09:00:00,Lecture,1.0,8.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-16,0 days 10:00:00,0 days 12:00:00,Lecture,2.0,10.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-16,0 days 15:00:00,0 days 16:00:00,Tutorial,1.0,15.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-16,0 days 09:00:00,0 days 11:00:00,Lecture,2.0,9.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-16,0 days 17:00:00,0 days 19:00:00,Lecture,2.0,17.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-16,0 days 15:00:00,0 days 17:00:00,Practical Exam,2.0,15.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-16,0 days 13:00:00,0 days 16:00:00,Programming Lab,3.0,13.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-16,0 days 09:00:00,0 days 11:00:00,Practical Lab,2.0,9.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-16,0 days 10:00:00,0 days 11:00:00,Lab Assessment,1.0,10.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-16,0 days 08:00:00,0 days 10:00:00,Practical Lab,2.0,8.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-16,0 days 08:00:00,0 days 09:00:00,Reading Session,1.0,8.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-16,0 days 14:00:00,0 days 15:00:00,Reading Session,1.0,14.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-16,0 days 15:00:00,0 days 16:00:00,Student Activity,1.0,15.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-16,0 days 17:00:00,0 days 18:00:00,Club Meeting,1.0,17.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-19,0 days 10:00:00,0 days 11:00:00,Tutorial,1.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-19,0 days 08:00:00,0 days 10:00:00,Tutorial,2.0,8.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-19,0 days 16:00:00,0 days 17:00:00,Tutorial,1.0,16.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-19,0 days 16:00:00,0 days 19:00:00,Lecture,3.0,16.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-19,0 days 14:00:00,0 days 15:00:00,Tutorial,1.0,14.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-19,0 days 11:00:00,0 days 14:00:00,Lecture,3.0,11.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-19,0 days 16:00:00,0 days 17:00:00,Make-up Class,1.0,16.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-19,0 days 11:00:00,0 days 14:00:00,Make-up Class,3.0,11.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-19,0 days 11:00:00,0 days 12:00:00,Make-up Class,1.0,11.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-19,0 days 13:00:00,0 days 14:00:00,Programming Lab,1.0,13.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-19,0 days 13:00:00,0 days 14:00:00,Workshop,1.0,13.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-19,0 days 15:00:00,0 days 16:00:00,Lab Assessment,1.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-19,0 days 12:00:00,0 days 13:00:00,Group Study,1.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-19,0 days 13:00:00,0 days 14:00:00,Study,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-19,0 days 14:00:00,0 days 15:00:00,Study,1.0,14.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-19,0 days 12:00:00,0 days 13:00:00,Reading Session,1.0,12.0,0 day,0 day,True,No Event,False
+SEM-1,2026-01-19,0 days 08:00:00,0 days 11:00:00,Workshop,3.0,8.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-19,0 days 15:00:00,0 days 16:00:00,Informal Study,1.0,15.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-20,0 days 09:00:00,0 days 10:00:00,Seminar,1.0,9.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-20,0 days 11:00:00,0 days 12:00:00,Make-up Class,1.0,11.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-20,0 days 12:00:00,0 days 13:00:00,Tutorial,1.0,12.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-20,0 days 09:00:00,0 days 10:00:00,Make-up Class,1.0,9.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-20,0 days 08:00:00,0 days 09:00:00,Seminar,1.0,8.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-20,0 days 16:00:00,0 days 18:00:00,Seminar,2.0,16.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-20,0 days 15:00:00,0 days 16:00:00,Make-up Class,1.0,15.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-20,0 days 17:00:00,0 days 19:00:00,Programming Lab,2.0,17.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-20,0 days 09:00:00,0 days 10:00:00,Programming Lab,1.0,9.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-20,0 days 09:00:00,0 days 11:00:00,Lab Assessment,2.0,9.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-20,0 days 16:00:00,0 days 17:00:00,Lab Assessment,1.0,16.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-20,0 days 16:00:00,0 days 18:00:00,Practical Lab,2.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-20,0 days 08:00:00,0 days 11:00:00,Study,3.0,8.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-20,0 days 17:00:00,0 days 18:00:00,Reading Session,1.0,17.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-20,0 days 08:00:00,0 days 09:00:00,Club Meeting,1.0,8.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-20,0 days 17:00:00,0 days 19:00:00,Student Activity,2.0,17.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-21,0 days 12:00:00,0 days 13:00:00,Seminar,1.0,12.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-21,0 days 10:00:00,0 days 13:00:00,Lecture,3.0,10.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-21,0 days 16:00:00,0 days 19:00:00,Seminar,3.0,16.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-21,0 days 09:00:00,0 days 11:00:00,Seminar,2.0,9.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-21,0 days 15:00:00,0 days 16:00:00,Programming Lab,1.0,15.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-21,0 days 13:00:00,0 days 14:00:00,Practical Lab,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-21,0 days 15:00:00,0 days 18:00:00,Reading Session,3.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-21,0 days 14:00:00,0 days 15:00:00,Study,1.0,14.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-21,0 days 10:00:00,0 days 11:00:00,Study,1.0,10.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-21,0 days 14:00:00,0 days 16:00:00,Study,2.0,14.0,0 day,0 day,True,No Event,False
+SEM-1,2026-01-21,0 days 14:00:00,0 days 17:00:00,Department Meeting,3.0,14.0,0 day,0 day,True,No Event,False
+AUD-1,2026-01-21,0 days 12:00:00,0 days 13:00:00,Cultural Program,1.0,12.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-21,0 days 15:00:00,0 days 17:00:00,Club Meeting,2.0,15.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-21,0 days 17:00:00,0 days 18:00:00,Student Activity,1.0,17.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-22,0 days 12:00:00,0 days 15:00:00,Lecture,3.0,12.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-22,0 days 12:00:00,0 days 13:00:00,Lecture,1.0,12.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-22,0 days 15:00:00,0 days 16:00:00,Tutorial,1.0,15.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-22,0 days 12:00:00,0 days 14:00:00,Lecture,2.0,12.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-22,0 days 17:00:00,0 days 18:00:00,Tutorial,1.0,17.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-22,0 days 14:00:00,0 days 16:00:00,Lecture,2.0,14.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-22,0 days 17:00:00,0 days 18:00:00,Seminar,1.0,17.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-22,0 days 14:00:00,0 days 16:00:00,Tutorial,2.0,14.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-22,0 days 11:00:00,0 days 12:00:00,Make-up Class,1.0,11.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-22,0 days 08:00:00,0 days 09:00:00,Programming Lab,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-22,0 days 14:00:00,0 days 15:00:00,Workshop,1.0,14.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-22,0 days 10:00:00,0 days 11:00:00,Practical Exam,1.0,10.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-22,0 days 10:00:00,0 days 11:00:00,Practical Lab,1.0,10.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-22,0 days 14:00:00,0 days 15:00:00,Reading Session,1.0,14.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-22,0 days 17:00:00,0 days 19:00:00,Reading Session,2.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-22,0 days 12:00:00,0 days 14:00:00,Reading Session,2.0,12.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-22,0 days 12:00:00,0 days 14:00:00,Student Activity,2.0,12.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-23,0 days 17:00:00,0 days 19:00:00,Seminar,2.0,17.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-23,0 days 15:00:00,0 days 17:00:00,Lecture,2.0,15.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-23,0 days 15:00:00,0 days 18:00:00,Lecture,3.0,15.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-23,0 days 09:00:00,0 days 12:00:00,Seminar,3.0,9.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-23,0 days 14:00:00,0 days 16:00:00,Make-up Class,2.0,14.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-23,0 days 12:00:00,0 days 13:00:00,Tutorial,1.0,12.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-23,0 days 14:00:00,0 days 15:00:00,Programming Lab,1.0,14.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-23,0 days 15:00:00,0 days 18:00:00,Programming Lab,3.0,15.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-23,0 days 08:00:00,0 days 11:00:00,Experiment,3.0,8.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-23,0 days 12:00:00,0 days 14:00:00,Study,2.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-23,0 days 15:00:00,0 days 17:00:00,Group Study,2.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-23,0 days 17:00:00,0 days 19:00:00,Study,2.0,17.0,0 day,0 day,True,No Event,False
+SEM-1,2026-01-23,0 days 17:00:00,0 days 18:00:00,Workshop,1.0,17.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-23,0 days 16:00:00,0 days 19:00:00,Student Activity,3.0,16.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-23,0 days 10:00:00,0 days 11:00:00,Informal Study,1.0,10.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-26,0 days 08:00:00,0 days 09:00:00,Seminar,1.0,8.0,0 day,0 day,True,Campus Event,False
+CR-102,2026-01-26,0 days 14:00:00,0 days 16:00:00,Tutorial,2.0,14.0,0 day,0 day,True,Campus Event,False
+CR-102,2026-01-26,0 days 11:00:00,0 days 12:00:00,Seminar,1.0,11.0,0 day,0 day,True,Campus Event,False
+CR-201,2026-01-26,0 days 10:00:00,0 days 11:00:00,Seminar,1.0,10.0,0 day,0 day,True,Campus Event,False
+CR-201,2026-01-26,0 days 16:00:00,0 days 18:00:00,Seminar,2.0,16.0,0 day,0 day,True,Campus Event,False
+CR-201,2026-01-26,0 days 11:00:00,0 days 12:00:00,Tutorial,1.0,11.0,0 day,0 day,True,Campus Event,False
+CR-202,2026-01-26,0 days 13:00:00,0 days 16:00:00,Seminar,3.0,13.0,0 day,0 day,True,Campus Event,False
+LAB-1,2026-01-26,0 days 09:00:00,0 days 10:00:00,Programming Lab,1.0,9.0,0 day,0 day,True,Campus Event,False
+LAB-2,2026-01-26,0 days 08:00:00,0 days 10:00:00,Experiment,2.0,8.0,0 day,0 day,True,Campus Event,False
+LIB-MAIN,2026-01-26,0 days 16:00:00,0 days 17:00:00,Reading Session,1.0,16.0,0 day,0 day,True,Campus Event,False
+LIB-MAIN,2026-01-26,0 days 12:00:00,0 days 13:00:00,Reading Session,1.0,12.0,0 day,0 day,True,Campus Event,False
+LIB-MAIN,2026-01-26,0 days 09:00:00,0 days 10:00:00,Reading Session,1.0,9.0,0 day,0 day,True,Campus Event,False
+LIB-MAIN,2026-01-26,0 days 17:00:00,0 days 19:00:00,Group Study,2.0,17.0,0 day,0 day,True,Campus Event,False
+SEM-1,2026-01-26,0 days 10:00:00,0 days 11:00:00,Department Meeting,1.0,10.0,0 day,0 day,True,Campus Event,False
+AUD-1,2026-01-26,0 days 14:00:00,0 days 15:00:00,College Event,1.0,14.0,0 day,0 day,True,Campus Event,False
+AUD-1,2026-01-26,0 days 16:00:00,0 days 17:00:00,Guest Talk,1.0,16.0,0 day,0 day,True,Campus Event,False
+COMMON-1,2026-01-26,0 days 13:00:00,0 days 14:00:00,Informal Study,1.0,13.0,0 day,0 day,True,Campus Event,False
+CR-101,2026-01-27,0 days 15:00:00,0 days 16:00:00,Seminar,1.0,15.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-27,0 days 16:00:00,0 days 18:00:00,Seminar,2.0,16.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-27,0 days 12:00:00,0 days 13:00:00,Tutorial,1.0,12.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-27,0 days 16:00:00,0 days 17:00:00,Seminar,1.0,16.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-27,0 days 09:00:00,0 days 10:00:00,Make-up Class,1.0,9.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-27,0 days 08:00:00,0 days 10:00:00,Make-up Class,2.0,8.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-27,0 days 16:00:00,0 days 17:00:00,Lecture,1.0,16.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-27,0 days 12:00:00,0 days 13:00:00,Practical Exam,1.0,12.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-27,0 days 16:00:00,0 days 18:00:00,Practical Exam,2.0,16.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-27,0 days 09:00:00,0 days 11:00:00,Programming Lab,2.0,9.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-27,0 days 16:00:00,0 days 17:00:00,Practical Lab,1.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-27,0 days 17:00:00,0 days 18:00:00,Group Study,1.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-27,0 days 13:00:00,0 days 15:00:00,Group Study,2.0,13.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-27,0 days 13:00:00,0 days 14:00:00,Student Activity,1.0,13.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-27,0 days 11:00:00,0 days 14:00:00,Club Meeting,3.0,11.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-28,0 days 11:00:00,0 days 12:00:00,Make-up Class,1.0,11.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-28,0 days 12:00:00,0 days 14:00:00,Tutorial,2.0,12.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-28,0 days 09:00:00,0 days 10:00:00,Lecture,1.0,9.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-28,0 days 17:00:00,0 days 18:00:00,Seminar,1.0,17.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-28,0 days 11:00:00,0 days 13:00:00,Lecture,2.0,11.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-28,0 days 17:00:00,0 days 18:00:00,Lecture,1.0,17.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-28,0 days 12:00:00,0 days 14:00:00,Practical Exam,2.0,12.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-28,0 days 09:00:00,0 days 10:00:00,Workshop,1.0,9.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-28,0 days 08:00:00,0 days 11:00:00,Experiment,3.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-28,0 days 13:00:00,0 days 14:00:00,Lab Assessment,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-28,0 days 11:00:00,0 days 12:00:00,Reading Session,1.0,11.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-28,0 days 12:00:00,0 days 14:00:00,Group Study,2.0,12.0,0 day,0 day,True,No Event,False
+SEM-1,2026-01-28,0 days 16:00:00,0 days 17:00:00,Workshop,1.0,16.0,0 day,0 day,True,No Event,False
+AUD-1,2026-01-28,0 days 14:00:00,0 days 17:00:00,College Event,3.0,14.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-28,0 days 12:00:00,0 days 13:00:00,Student Activity,1.0,12.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-29,0 days 11:00:00,0 days 13:00:00,Seminar,2.0,11.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-29,0 days 08:00:00,0 days 09:00:00,Lecture,1.0,8.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-29,0 days 17:00:00,0 days 18:00:00,Seminar,1.0,17.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-29,0 days 09:00:00,0 days 12:00:00,Seminar,3.0,9.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-29,0 days 08:00:00,0 days 09:00:00,Seminar,1.0,8.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-29,0 days 12:00:00,0 days 15:00:00,Make-up Class,3.0,12.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-29,0 days 14:00:00,0 days 16:00:00,Practical Exam,2.0,14.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-29,0 days 17:00:00,0 days 18:00:00,Programming Lab,1.0,17.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-29,0 days 09:00:00,0 days 11:00:00,Experiment,2.0,9.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-29,0 days 15:00:00,0 days 18:00:00,Lab Assessment,3.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-29,0 days 13:00:00,0 days 15:00:00,Group Study,2.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-29,0 days 16:00:00,0 days 17:00:00,Reading Session,1.0,16.0,0 day,0 day,True,No Event,False
+SEM-1,2026-01-29,0 days 08:00:00,0 days 09:00:00,Department Meeting,1.0,8.0,0 day,0 day,True,No Event,False
+AUD-1,2026-01-29,0 days 10:00:00,0 days 11:00:00,College Event,1.0,10.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-29,0 days 08:00:00,0 days 11:00:00,Student Activity,3.0,8.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-29,0 days 15:00:00,0 days 16:00:00,Student Activity,1.0,15.0,0 day,0 day,True,No Event,False
+CR-101,2026-01-30,0 days 16:00:00,0 days 18:00:00,Tutorial,2.0,16.0,0 day,0 day,True,No Event,False
+CR-102,2026-01-30,0 days 11:00:00,0 days 12:00:00,Seminar,1.0,11.0,0 day,0 day,True,No Event,False
+CR-201,2026-01-30,0 days 13:00:00,0 days 15:00:00,Seminar,2.0,13.0,0 day,0 day,True,No Event,False
+CR-202,2026-01-30,0 days 08:00:00,0 days 09:00:00,Tutorial,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-30,0 days 12:00:00,0 days 14:00:00,Workshop,2.0,12.0,0 day,0 day,True,No Event,False
+LAB-1,2026-01-30,0 days 11:00:00,0 days 12:00:00,Workshop,1.0,11.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-30,0 days 08:00:00,0 days 11:00:00,Practical Lab,3.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-30,0 days 09:00:00,0 days 11:00:00,Lab Assessment,2.0,9.0,0 day,0 day,True,No Event,False
+LAB-2,2026-01-30,0 days 12:00:00,0 days 13:00:00,Practical Lab,1.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-30,0 days 09:00:00,0 days 12:00:00,Study,3.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-01-30,0 days 14:00:00,0 days 15:00:00,Study,1.0,14.0,0 day,0 day,True,No Event,False
+SEM-1,2026-01-30,0 days 14:00:00,0 days 17:00:00,Department Meeting,3.0,14.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-01-30,0 days 16:00:00,0 days 17:00:00,Club Meeting,1.0,16.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-02,0 days 12:00:00,0 days 13:00:00,Make-up Class,1.0,12.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-02,0 days 08:00:00,0 days 10:00:00,Lecture,2.0,8.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-02,0 days 10:00:00,0 days 12:00:00,Make-up Class,2.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-02,0 days 10:00:00,0 days 13:00:00,Seminar,3.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-02,0 days 08:00:00,0 days 11:00:00,Make-up Class,3.0,8.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-02,0 days 16:00:00,0 days 17:00:00,Lecture,1.0,16.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-02,0 days 15:00:00,0 days 16:00:00,Seminar,1.0,15.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-02,0 days 11:00:00,0 days 12:00:00,Seminar,1.0,11.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-02,0 days 13:00:00,0 days 14:00:00,Lecture,1.0,13.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-02,0 days 11:00:00,0 days 12:00:00,Make-up Class,1.0,11.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-02,0 days 14:00:00,0 days 17:00:00,Programming Lab,3.0,14.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-02,0 days 08:00:00,0 days 09:00:00,Workshop,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-02,0 days 09:00:00,0 days 11:00:00,Lab Assessment,2.0,9.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-02,0 days 08:00:00,0 days 09:00:00,Lab Assessment,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-02,0 days 13:00:00,0 days 14:00:00,Practical Lab,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-02,0 days 17:00:00,0 days 18:00:00,Group Study,1.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-02,0 days 10:00:00,0 days 11:00:00,Reading Session,1.0,10.0,0 day,0 day,True,No Event,False
+SEM-1,2026-02-02,0 days 14:00:00,0 days 17:00:00,Department Meeting,3.0,14.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-02,0 days 16:00:00,0 days 19:00:00,Informal Study,3.0,16.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-03,0 days 10:00:00,0 days 12:00:00,Tutorial,2.0,10.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-03,0 days 11:00:00,0 days 13:00:00,Seminar,2.0,11.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-03,0 days 11:00:00,0 days 13:00:00,Seminar,2.0,11.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-03,0 days 14:00:00,0 days 15:00:00,Seminar,1.0,14.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-03,0 days 17:00:00,0 days 18:00:00,Lecture,1.0,17.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-03,0 days 08:00:00,0 days 11:00:00,Tutorial,3.0,8.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-03,0 days 08:00:00,0 days 09:00:00,Tutorial,1.0,8.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-03,0 days 13:00:00,0 days 16:00:00,Tutorial,3.0,13.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-03,0 days 13:00:00,0 days 14:00:00,Lecture,1.0,13.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-03,0 days 15:00:00,0 days 16:00:00,Practical Exam,1.0,15.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-03,0 days 09:00:00,0 days 10:00:00,Workshop,1.0,9.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-03,0 days 15:00:00,0 days 16:00:00,Workshop,1.0,15.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-03,0 days 14:00:00,0 days 17:00:00,Lab Assessment,3.0,14.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-03,0 days 13:00:00,0 days 15:00:00,Lab Assessment,2.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-03,0 days 14:00:00,0 days 15:00:00,Study,1.0,14.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-03,0 days 15:00:00,0 days 16:00:00,Reading Session,1.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-03,0 days 10:00:00,0 days 11:00:00,Group Study,1.0,10.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-03,0 days 17:00:00,0 days 18:00:00,Reading Session,1.0,17.0,0 day,0 day,True,No Event,False
+SEM-1,2026-02-03,0 days 14:00:00,0 days 17:00:00,Workshop,3.0,14.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-03,0 days 10:00:00,0 days 11:00:00,Informal Study,1.0,10.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-03,0 days 11:00:00,0 days 12:00:00,Student Activity,1.0,11.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-04,0 days 16:00:00,0 days 17:00:00,Seminar,1.0,16.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-04,0 days 11:00:00,0 days 12:00:00,Make-up Class,1.0,11.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-04,0 days 12:00:00,0 days 13:00:00,Lecture,1.0,12.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-04,0 days 11:00:00,0 days 12:00:00,Seminar,1.0,11.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-04,0 days 11:00:00,0 days 13:00:00,Lecture,2.0,11.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-04,0 days 08:00:00,0 days 09:00:00,Seminar,1.0,8.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-04,0 days 17:00:00,0 days 19:00:00,Make-up Class,2.0,17.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-04,0 days 15:00:00,0 days 16:00:00,Seminar,1.0,15.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-04,0 days 13:00:00,0 days 14:00:00,Make-up Class,1.0,13.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-04,0 days 13:00:00,0 days 14:00:00,Programming Lab,1.0,13.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-04,0 days 13:00:00,0 days 15:00:00,Practical Exam,2.0,13.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-04,0 days 17:00:00,0 days 18:00:00,Practical Lab,1.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-04,0 days 09:00:00,0 days 11:00:00,Study,2.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-04,0 days 15:00:00,0 days 16:00:00,Group Study,1.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-04,0 days 17:00:00,0 days 18:00:00,Study,1.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-04,0 days 12:00:00,0 days 13:00:00,Group Study,1.0,12.0,0 day,0 day,True,No Event,False
+AUD-1,2026-02-04,0 days 14:00:00,0 days 16:00:00,College Event,2.0,14.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-04,0 days 17:00:00,0 days 19:00:00,Club Meeting,2.0,17.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-04,0 days 14:00:00,0 days 15:00:00,Informal Study,1.0,14.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-05,0 days 10:00:00,0 days 12:00:00,Tutorial,2.0,10.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-05,0 days 17:00:00,0 days 19:00:00,Make-up Class,2.0,17.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-05,0 days 12:00:00,0 days 15:00:00,Lecture,3.0,12.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-05,0 days 16:00:00,0 days 18:00:00,Tutorial,2.0,16.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-05,0 days 10:00:00,0 days 13:00:00,Lecture,3.0,10.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-05,0 days 08:00:00,0 days 09:00:00,Make-up Class,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-05,0 days 12:00:00,0 days 14:00:00,Practical Exam,2.0,12.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-05,0 days 15:00:00,0 days 18:00:00,Programming Lab,3.0,15.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-05,0 days 08:00:00,0 days 10:00:00,Experiment,2.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-05,0 days 16:00:00,0 days 17:00:00,Practical Lab,1.0,16.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-05,0 days 12:00:00,0 days 14:00:00,Experiment,2.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-05,0 days 15:00:00,0 days 16:00:00,Group Study,1.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-05,0 days 10:00:00,0 days 12:00:00,Group Study,2.0,10.0,0 day,0 day,True,No Event,False
+AUD-1,2026-02-05,0 days 08:00:00,0 days 10:00:00,Guest Talk,2.0,8.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-05,0 days 12:00:00,0 days 13:00:00,Club Meeting,1.0,12.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-06,0 days 17:00:00,0 days 18:00:00,Tutorial,1.0,17.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-06,0 days 09:00:00,0 days 11:00:00,Lecture,2.0,9.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-06,0 days 10:00:00,0 days 12:00:00,Make-up Class,2.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-06,0 days 08:00:00,0 days 09:00:00,Seminar,1.0,8.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-06,0 days 10:00:00,0 days 11:00:00,Make-up Class,1.0,10.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-06,0 days 10:00:00,0 days 11:00:00,Seminar,1.0,10.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-06,0 days 10:00:00,0 days 13:00:00,Make-up Class,3.0,10.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-06,0 days 15:00:00,0 days 16:00:00,Seminar,1.0,15.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-06,0 days 09:00:00,0 days 10:00:00,Seminar,1.0,9.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-06,0 days 08:00:00,0 days 10:00:00,Workshop,2.0,8.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-06,0 days 12:00:00,0 days 14:00:00,Workshop,2.0,12.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-06,0 days 10:00:00,0 days 11:00:00,Practical Lab,1.0,10.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-06,0 days 10:00:00,0 days 11:00:00,Lab Assessment,1.0,10.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-06,0 days 13:00:00,0 days 14:00:00,Practical Lab,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-06,0 days 17:00:00,0 days 19:00:00,Study,2.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-06,0 days 16:00:00,0 days 17:00:00,Study,1.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-06,0 days 09:00:00,0 days 10:00:00,Study,1.0,9.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-06,0 days 11:00:00,0 days 12:00:00,Student Activity,1.0,11.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-06,0 days 09:00:00,0 days 12:00:00,Informal Study,3.0,9.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-09,0 days 17:00:00,0 days 18:00:00,Make-up Class,1.0,17.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-09,0 days 14:00:00,0 days 16:00:00,Lecture,2.0,14.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-09,0 days 09:00:00,0 days 10:00:00,Tutorial,1.0,9.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-09,0 days 09:00:00,0 days 11:00:00,Lecture,2.0,9.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-09,0 days 17:00:00,0 days 18:00:00,Programming Lab,1.0,17.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-09,0 days 08:00:00,0 days 09:00:00,Experiment,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-09,0 days 13:00:00,0 days 14:00:00,Practical Lab,1.0,13.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-09,0 days 15:00:00,0 days 17:00:00,Practical Lab,2.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-09,0 days 11:00:00,0 days 12:00:00,Study,1.0,11.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-09,0 days 12:00:00,0 days 15:00:00,Group Study,3.0,12.0,0 day,0 day,True,No Event,False
+SEM-1,2026-02-09,0 days 09:00:00,0 days 12:00:00,Guest Lecture,3.0,9.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-09,0 days 16:00:00,0 days 17:00:00,Informal Study,1.0,16.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-10,0 days 14:00:00,0 days 16:00:00,Make-up Class,2.0,14.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-10,0 days 14:00:00,0 days 17:00:00,Lecture,3.0,14.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-10,0 days 17:00:00,0 days 19:00:00,Seminar,2.0,17.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-10,0 days 15:00:00,0 days 17:00:00,Seminar,2.0,15.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-10,0 days 11:00:00,0 days 13:00:00,Lecture,2.0,11.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-10,0 days 14:00:00,0 days 15:00:00,Make-up Class,1.0,14.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-10,0 days 11:00:00,0 days 13:00:00,Lecture,2.0,11.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-10,0 days 13:00:00,0 days 14:00:00,Seminar,1.0,13.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-10,0 days 17:00:00,0 days 19:00:00,Tutorial,2.0,17.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-10,0 days 13:00:00,0 days 16:00:00,Programming Lab,3.0,13.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-10,0 days 12:00:00,0 days 13:00:00,Practical Exam,1.0,12.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-10,0 days 13:00:00,0 days 14:00:00,Practical Exam,1.0,13.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-10,0 days 11:00:00,0 days 13:00:00,Experiment,2.0,11.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-10,0 days 13:00:00,0 days 14:00:00,Practical Lab,1.0,13.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-10,0 days 11:00:00,0 days 12:00:00,Practical Lab,1.0,11.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-10,0 days 10:00:00,0 days 11:00:00,Study,1.0,10.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-10,0 days 09:00:00,0 days 10:00:00,Reading Session,1.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-10,0 days 12:00:00,0 days 14:00:00,Group Study,2.0,12.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-10,0 days 15:00:00,0 days 17:00:00,Informal Study,2.0,15.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-11,0 days 15:00:00,0 days 16:00:00,Seminar,1.0,15.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-11,0 days 11:00:00,0 days 13:00:00,Make-up Class,2.0,11.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-11,0 days 13:00:00,0 days 15:00:00,Make-up Class,2.0,13.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-11,0 days 12:00:00,0 days 15:00:00,Seminar,3.0,12.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-11,0 days 09:00:00,0 days 12:00:00,Tutorial,3.0,9.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-11,0 days 14:00:00,0 days 15:00:00,Lecture,1.0,14.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-11,0 days 14:00:00,0 days 15:00:00,Make-up Class,1.0,14.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-11,0 days 16:00:00,0 days 17:00:00,Lecture,1.0,16.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-11,0 days 17:00:00,0 days 19:00:00,Programming Lab,2.0,17.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-11,0 days 11:00:00,0 days 13:00:00,Practical Lab,2.0,11.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-11,0 days 13:00:00,0 days 14:00:00,Lab Assessment,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-11,0 days 16:00:00,0 days 17:00:00,Study,1.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-11,0 days 12:00:00,0 days 13:00:00,Study,1.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-11,0 days 15:00:00,0 days 16:00:00,Reading Session,1.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-11,0 days 13:00:00,0 days 14:00:00,Study,1.0,13.0,0 day,0 day,True,No Event,False
+SEM-1,2026-02-11,0 days 10:00:00,0 days 13:00:00,Workshop,3.0,10.0,0 day,0 day,True,No Event,False
+AUD-1,2026-02-11,0 days 10:00:00,0 days 11:00:00,College Event,1.0,10.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-11,0 days 17:00:00,0 days 19:00:00,Student Activity,2.0,17.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-12,0 days 13:00:00,0 days 14:00:00,Lecture,1.0,13.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-12,0 days 12:00:00,0 days 14:00:00,Lecture,2.0,12.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-12,0 days 15:00:00,0 days 18:00:00,Tutorial,3.0,15.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-12,0 days 08:00:00,0 days 09:00:00,Lecture,1.0,8.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-12,0 days 10:00:00,0 days 11:00:00,Make-up Class,1.0,10.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-12,0 days 13:00:00,0 days 15:00:00,Make-up Class,2.0,13.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-12,0 days 11:00:00,0 days 13:00:00,Lecture,2.0,11.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-12,0 days 13:00:00,0 days 15:00:00,Workshop,2.0,13.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-12,0 days 17:00:00,0 days 19:00:00,Practical Exam,2.0,17.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-12,0 days 12:00:00,0 days 13:00:00,Lab Assessment,1.0,12.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-12,0 days 14:00:00,0 days 17:00:00,Practical Lab,3.0,14.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-12,0 days 16:00:00,0 days 19:00:00,Group Study,3.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-12,0 days 11:00:00,0 days 12:00:00,Group Study,1.0,11.0,0 day,0 day,True,No Event,False
+AUD-1,2026-02-12,0 days 08:00:00,0 days 10:00:00,Guest Talk,2.0,8.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-12,0 days 13:00:00,0 days 14:00:00,Student Activity,1.0,13.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-12,0 days 12:00:00,0 days 14:00:00,Club Meeting,2.0,12.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-13,0 days 09:00:00,0 days 11:00:00,Seminar,2.0,9.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-13,0 days 08:00:00,0 days 10:00:00,Tutorial,2.0,8.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-13,0 days 17:00:00,0 days 19:00:00,Seminar,2.0,17.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-13,0 days 14:00:00,0 days 15:00:00,Tutorial,1.0,14.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-13,0 days 13:00:00,0 days 14:00:00,Make-up Class,1.0,13.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-13,0 days 09:00:00,0 days 12:00:00,Tutorial,3.0,9.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-13,0 days 15:00:00,0 days 16:00:00,Lecture,1.0,15.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-13,0 days 09:00:00,0 days 12:00:00,Practical Exam,3.0,9.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-13,0 days 10:00:00,0 days 11:00:00,Programming Lab,1.0,10.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-13,0 days 12:00:00,0 days 14:00:00,Practical Exam,2.0,12.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-13,0 days 08:00:00,0 days 10:00:00,Lab Assessment,2.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-13,0 days 10:00:00,0 days 11:00:00,Experiment,1.0,10.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-13,0 days 17:00:00,0 days 18:00:00,Reading Session,1.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-13,0 days 16:00:00,0 days 19:00:00,Study,3.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-13,0 days 17:00:00,0 days 18:00:00,Study,1.0,17.0,0 day,0 day,True,No Event,False
+SEM-1,2026-02-13,0 days 13:00:00,0 days 14:00:00,Workshop,1.0,13.0,0 day,0 day,True,No Event,False
+AUD-1,2026-02-13,0 days 14:00:00,0 days 15:00:00,Cultural Program,1.0,14.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-13,0 days 16:00:00,0 days 17:00:00,Club Meeting,1.0,16.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-16,0 days 10:00:00,0 days 13:00:00,Lecture,3.0,10.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-102,2026-02-16,0 days 14:00:00,0 days 16:00:00,Make-up Class,2.0,14.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-201,2026-02-16,0 days 16:00:00,0 days 17:00:00,Make-up Class,1.0,16.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-201,2026-02-16,0 days 16:00:00,0 days 17:00:00,Lecture,1.0,16.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-202,2026-02-16,0 days 14:00:00,0 days 15:00:00,Tutorial,1.0,14.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-202,2026-02-16,0 days 13:00:00,0 days 14:00:00,Seminar,1.0,13.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-202,2026-02-16,0 days 13:00:00,0 days 16:00:00,Tutorial,3.0,13.0,0 day,0 day,True,Mid-Semester Examinations,True
+LAB-1,2026-02-16,0 days 10:00:00,0 days 11:00:00,Workshop,1.0,10.0,0 day,0 day,True,Mid-Semester Examinations,True
+LAB-1,2026-02-16,0 days 15:00:00,0 days 18:00:00,Practical Exam,3.0,15.0,0 day,0 day,True,Mid-Semester Examinations,True
+LAB-2,2026-02-16,0 days 13:00:00,0 days 14:00:00,Practical Lab,1.0,13.0,0 day,0 day,True,Mid-Semester Examinations,True
+LAB-2,2026-02-16,0 days 13:00:00,0 days 14:00:00,Experiment,1.0,13.0,0 day,0 day,True,Mid-Semester Examinations,True
+LIB-MAIN,2026-02-16,0 days 11:00:00,0 days 13:00:00,Exam Preparation,2.0,11.0,0 day,0 day,True,Mid-Semester Examinations,True
+LIB-MAIN,2026-02-16,0 days 15:00:00,0 days 16:00:00,Exam Preparation,1.0,15.0,0 day,0 day,True,Mid-Semester Examinations,True
+SEM-1,2026-02-16,0 days 08:00:00,0 days 10:00:00,Guest Lecture,2.0,8.0,0 day,0 day,True,Mid-Semester Examinations,True
+AUD-1,2026-02-16,0 days 10:00:00,0 days 11:00:00,Guest Talk,1.0,10.0,0 day,0 day,True,Mid-Semester Examinations,True
+COMMON-1,2026-02-16,0 days 12:00:00,0 days 15:00:00,Informal Study,3.0,12.0,0 day,0 day,True,Mid-Semester Examinations,True
+COMMON-1,2026-02-16,0 days 08:00:00,0 days 10:00:00,Informal Study,2.0,8.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-101,2026-02-17,0 days 13:00:00,0 days 14:00:00,Seminar,1.0,13.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-101,2026-02-17,0 days 10:00:00,0 days 12:00:00,Make-up Class,2.0,10.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-101,2026-02-17,0 days 17:00:00,0 days 18:00:00,Tutorial,1.0,17.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-102,2026-02-17,0 days 12:00:00,0 days 13:00:00,Lecture,1.0,12.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-201,2026-02-17,0 days 17:00:00,0 days 19:00:00,Make-up Class,2.0,17.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-202,2026-02-17,0 days 15:00:00,0 days 16:00:00,Seminar,1.0,15.0,0 day,0 day,True,Mid-Semester Examinations,True
+LAB-1,2026-02-17,0 days 15:00:00,0 days 17:00:00,Practical Exam,2.0,15.0,0 day,0 day,True,Mid-Semester Examinations,True
+LAB-1,2026-02-17,0 days 15:00:00,0 days 16:00:00,Workshop,1.0,15.0,0 day,0 day,True,Mid-Semester Examinations,True
+LAB-2,2026-02-17,0 days 10:00:00,0 days 11:00:00,Practical Lab,1.0,10.0,0 day,0 day,True,Mid-Semester Examinations,True
+LIB-MAIN,2026-02-17,0 days 14:00:00,0 days 16:00:00,Exam Preparation,2.0,14.0,0 day,0 day,True,Mid-Semester Examinations,True
+LIB-MAIN,2026-02-17,0 days 10:00:00,0 days 11:00:00,Exam Preparation,1.0,10.0,0 day,0 day,True,Mid-Semester Examinations,True
+LIB-MAIN,2026-02-17,0 days 14:00:00,0 days 15:00:00,Exam Preparation,1.0,14.0,0 day,0 day,True,Mid-Semester Examinations,True
+SEM-1,2026-02-17,0 days 17:00:00,0 days 18:00:00,Guest Lecture,1.0,17.0,0 day,0 day,True,Mid-Semester Examinations,True
+AUD-1,2026-02-17,0 days 13:00:00,0 days 15:00:00,College Event,2.0,13.0,0 day,0 day,True,Mid-Semester Examinations,True
+COMMON-1,2026-02-17,0 days 13:00:00,0 days 16:00:00,Informal Study,3.0,13.0,0 day,0 day,True,Mid-Semester Examinations,True
+COMMON-1,2026-02-17,0 days 14:00:00,0 days 15:00:00,Student Activity,1.0,14.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-101,2026-02-18,0 days 12:00:00,0 days 13:00:00,Lecture,1.0,12.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-101,2026-02-18,0 days 11:00:00,0 days 13:00:00,Tutorial,2.0,11.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-102,2026-02-18,0 days 10:00:00,0 days 11:00:00,Lecture,1.0,10.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-102,2026-02-18,0 days 15:00:00,0 days 18:00:00,Make-up Class,3.0,15.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-102,2026-02-18,0 days 15:00:00,0 days 17:00:00,Lecture,2.0,15.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-201,2026-02-18,0 days 11:00:00,0 days 12:00:00,Tutorial,1.0,11.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-201,2026-02-18,0 days 17:00:00,0 days 18:00:00,Make-up Class,1.0,17.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-202,2026-02-18,0 days 14:00:00,0 days 16:00:00,Make-up Class,2.0,14.0,0 day,0 day,True,Mid-Semester Examinations,True
+LAB-1,2026-02-18,0 days 15:00:00,0 days 17:00:00,Programming Lab,2.0,15.0,0 day,0 day,True,Mid-Semester Examinations,True
+LAB-2,2026-02-18,0 days 10:00:00,0 days 11:00:00,Experiment,1.0,10.0,0 day,0 day,True,Mid-Semester Examinations,True
+LAB-2,2026-02-18,0 days 15:00:00,0 days 16:00:00,Experiment,1.0,15.0,0 day,0 day,True,Mid-Semester Examinations,True
+LIB-MAIN,2026-02-18,0 days 09:00:00,0 days 11:00:00,Exam Preparation,2.0,9.0,0 day,0 day,True,Mid-Semester Examinations,True
+LIB-MAIN,2026-02-18,0 days 12:00:00,0 days 14:00:00,Exam Preparation,2.0,12.0,0 day,0 day,True,Mid-Semester Examinations,True
+LIB-MAIN,2026-02-18,0 days 16:00:00,0 days 17:00:00,Exam Preparation,1.0,16.0,0 day,0 day,True,Mid-Semester Examinations,True
+LIB-MAIN,2026-02-18,0 days 17:00:00,0 days 19:00:00,Exam Preparation,2.0,17.0,0 day,0 day,True,Mid-Semester Examinations,True
+SEM-1,2026-02-18,0 days 12:00:00,0 days 14:00:00,Workshop,2.0,12.0,0 day,0 day,True,Mid-Semester Examinations,True
+COMMON-1,2026-02-18,0 days 08:00:00,0 days 09:00:00,Student Activity,1.0,8.0,0 day,0 day,True,Mid-Semester Examinations,True
+COMMON-1,2026-02-18,0 days 14:00:00,0 days 15:00:00,Student Activity,1.0,14.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-101,2026-02-19,0 days 16:00:00,0 days 17:00:00,Tutorial,1.0,16.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-102,2026-02-19,0 days 15:00:00,0 days 18:00:00,Seminar,3.0,15.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-102,2026-02-19,0 days 16:00:00,0 days 18:00:00,Make-up Class,2.0,16.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-201,2026-02-19,0 days 16:00:00,0 days 19:00:00,Lecture,3.0,16.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-201,2026-02-19,0 days 12:00:00,0 days 13:00:00,Seminar,1.0,12.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-201,2026-02-19,0 days 13:00:00,0 days 16:00:00,Tutorial,3.0,13.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-202,2026-02-19,0 days 08:00:00,0 days 10:00:00,Seminar,2.0,8.0,0 day,0 day,True,Mid-Semester Examinations,True
+LAB-1,2026-02-19,0 days 09:00:00,0 days 10:00:00,Workshop,1.0,9.0,0 day,0 day,True,Mid-Semester Examinations,True
+LAB-1,2026-02-19,0 days 13:00:00,0 days 15:00:00,Practical Exam,2.0,13.0,0 day,0 day,True,Mid-Semester Examinations,True
+LAB-2,2026-02-19,0 days 08:00:00,0 days 11:00:00,Practical Lab,3.0,8.0,0 day,0 day,True,Mid-Semester Examinations,True
+LIB-MAIN,2026-02-19,0 days 10:00:00,0 days 12:00:00,Exam Preparation,2.0,10.0,0 day,0 day,True,Mid-Semester Examinations,True
+LIB-MAIN,2026-02-19,0 days 12:00:00,0 days 13:00:00,Exam Preparation,1.0,12.0,0 day,0 day,True,Mid-Semester Examinations,True
+LIB-MAIN,2026-02-19,0 days 10:00:00,0 days 13:00:00,Exam Preparation,3.0,10.0,0 day,0 day,True,Mid-Semester Examinations,True
+LIB-MAIN,2026-02-19,0 days 11:00:00,0 days 14:00:00,Exam Preparation,3.0,11.0,0 day,0 day,True,Mid-Semester Examinations,True
+COMMON-1,2026-02-19,0 days 17:00:00,0 days 18:00:00,Club Meeting,1.0,17.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-101,2026-02-20,0 days 16:00:00,0 days 18:00:00,Tutorial,2.0,16.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-101,2026-02-20,0 days 14:00:00,0 days 15:00:00,Seminar,1.0,14.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-101,2026-02-20,0 days 14:00:00,0 days 16:00:00,Seminar,2.0,14.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-102,2026-02-20,0 days 15:00:00,0 days 17:00:00,Tutorial,2.0,15.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-201,2026-02-20,0 days 16:00:00,0 days 17:00:00,Lecture,1.0,16.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-201,2026-02-20,0 days 08:00:00,0 days 09:00:00,Seminar,1.0,8.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-201,2026-02-20,0 days 11:00:00,0 days 13:00:00,Make-up Class,2.0,11.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-202,2026-02-20,0 days 13:00:00,0 days 14:00:00,Tutorial,1.0,13.0,0 day,0 day,True,Mid-Semester Examinations,True
+LAB-1,2026-02-20,0 days 17:00:00,0 days 19:00:00,Programming Lab,2.0,17.0,0 day,0 day,True,Mid-Semester Examinations,True
+LAB-2,2026-02-20,0 days 14:00:00,0 days 16:00:00,Practical Lab,2.0,14.0,0 day,0 day,True,Mid-Semester Examinations,True
+LIB-MAIN,2026-02-20,0 days 15:00:00,0 days 16:00:00,Exam Preparation,1.0,15.0,0 day,0 day,True,Mid-Semester Examinations,True
+LIB-MAIN,2026-02-20,0 days 12:00:00,0 days 13:00:00,Exam Preparation,1.0,12.0,0 day,0 day,True,Mid-Semester Examinations,True
+SEM-1,2026-02-20,0 days 10:00:00,0 days 12:00:00,Guest Lecture,2.0,10.0,0 day,0 day,True,Mid-Semester Examinations,True
+AUD-1,2026-02-20,0 days 15:00:00,0 days 16:00:00,College Event,1.0,15.0,0 day,0 day,True,Mid-Semester Examinations,True
+COMMON-1,2026-02-20,0 days 15:00:00,0 days 18:00:00,Club Meeting,3.0,15.0,0 day,0 day,True,Mid-Semester Examinations,True
+COMMON-1,2026-02-20,0 days 16:00:00,0 days 18:00:00,Informal Study,2.0,16.0,0 day,0 day,True,Mid-Semester Examinations,True
+CR-101,2026-02-23,0 days 08:00:00,0 days 09:00:00,Make-up Class,1.0,8.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-23,0 days 11:00:00,0 days 14:00:00,Lecture,3.0,11.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-23,0 days 12:00:00,0 days 15:00:00,Seminar,3.0,12.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-23,0 days 11:00:00,0 days 13:00:00,Tutorial,2.0,11.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-23,0 days 13:00:00,0 days 14:00:00,Seminar,1.0,13.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-23,0 days 08:00:00,0 days 11:00:00,Make-up Class,3.0,8.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-23,0 days 16:00:00,0 days 19:00:00,Seminar,3.0,16.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-23,0 days 11:00:00,0 days 13:00:00,Lecture,2.0,11.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-23,0 days 10:00:00,0 days 11:00:00,Make-up Class,1.0,10.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-23,0 days 12:00:00,0 days 15:00:00,Practical Exam,3.0,12.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-23,0 days 10:00:00,0 days 11:00:00,Practical Exam,1.0,10.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-23,0 days 14:00:00,0 days 15:00:00,Workshop,1.0,14.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-23,0 days 16:00:00,0 days 17:00:00,Practical Lab,1.0,16.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-23,0 days 13:00:00,0 days 14:00:00,Lab Assessment,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-23,0 days 13:00:00,0 days 14:00:00,Study,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-23,0 days 15:00:00,0 days 16:00:00,Group Study,1.0,15.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-23,0 days 10:00:00,0 days 11:00:00,Student Activity,1.0,10.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-23,0 days 09:00:00,0 days 11:00:00,Informal Study,2.0,9.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-24,0 days 11:00:00,0 days 13:00:00,Tutorial,2.0,11.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-24,0 days 12:00:00,0 days 15:00:00,Tutorial,3.0,12.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-24,0 days 13:00:00,0 days 14:00:00,Tutorial,1.0,13.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-24,0 days 16:00:00,0 days 19:00:00,Seminar,3.0,16.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-24,0 days 13:00:00,0 days 15:00:00,Tutorial,2.0,13.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-24,0 days 08:00:00,0 days 09:00:00,Lecture,1.0,8.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-24,0 days 13:00:00,0 days 15:00:00,Lecture,2.0,13.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-24,0 days 08:00:00,0 days 10:00:00,Make-up Class,2.0,8.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-24,0 days 08:00:00,0 days 09:00:00,Practical Exam,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-24,0 days 16:00:00,0 days 18:00:00,Practical Lab,2.0,16.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-24,0 days 16:00:00,0 days 18:00:00,Lab Assessment,2.0,16.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-24,0 days 17:00:00,0 days 19:00:00,Experiment,2.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-24,0 days 14:00:00,0 days 15:00:00,Study,1.0,14.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-24,0 days 13:00:00,0 days 15:00:00,Group Study,2.0,13.0,0 day,0 day,True,No Event,False
+SEM-1,2026-02-24,0 days 09:00:00,0 days 11:00:00,Department Meeting,2.0,9.0,0 day,0 day,True,No Event,False
+AUD-1,2026-02-24,0 days 11:00:00,0 days 12:00:00,Cultural Program,1.0,11.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-24,0 days 16:00:00,0 days 19:00:00,Club Meeting,3.0,16.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-24,0 days 15:00:00,0 days 17:00:00,Student Activity,2.0,15.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-25,0 days 12:00:00,0 days 13:00:00,Make-up Class,1.0,12.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-25,0 days 10:00:00,0 days 11:00:00,Lecture,1.0,10.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-25,0 days 13:00:00,0 days 14:00:00,Make-up Class,1.0,13.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-25,0 days 17:00:00,0 days 18:00:00,Tutorial,1.0,17.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-25,0 days 11:00:00,0 days 13:00:00,Lecture,2.0,11.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-25,0 days 16:00:00,0 days 17:00:00,Lecture,1.0,16.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-25,0 days 17:00:00,0 days 18:00:00,Seminar,1.0,17.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-25,0 days 08:00:00,0 days 09:00:00,Lecture,1.0,8.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-25,0 days 08:00:00,0 days 10:00:00,Tutorial,2.0,8.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-25,0 days 13:00:00,0 days 15:00:00,Seminar,2.0,13.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-25,0 days 16:00:00,0 days 17:00:00,Programming Lab,1.0,16.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-25,0 days 16:00:00,0 days 19:00:00,Programming Lab,3.0,16.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-25,0 days 08:00:00,0 days 09:00:00,Experiment,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-25,0 days 13:00:00,0 days 14:00:00,Practical Lab,1.0,13.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-25,0 days 08:00:00,0 days 10:00:00,Experiment,2.0,8.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-25,0 days 13:00:00,0 days 14:00:00,Study,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-25,0 days 14:00:00,0 days 16:00:00,Study,2.0,14.0,0 day,0 day,True,No Event,False
+AUD-1,2026-02-25,0 days 12:00:00,0 days 14:00:00,College Event,2.0,12.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-25,0 days 15:00:00,0 days 16:00:00,Informal Study,1.0,15.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-25,0 days 14:00:00,0 days 15:00:00,Informal Study,1.0,14.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-26,0 days 15:00:00,0 days 18:00:00,Seminar,3.0,15.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-26,0 days 11:00:00,0 days 12:00:00,Seminar,1.0,11.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-26,0 days 15:00:00,0 days 16:00:00,Tutorial,1.0,15.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-26,0 days 16:00:00,0 days 17:00:00,Tutorial,1.0,16.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-26,0 days 10:00:00,0 days 13:00:00,Make-up Class,3.0,10.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-26,0 days 16:00:00,0 days 17:00:00,Make-up Class,1.0,16.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-26,0 days 15:00:00,0 days 16:00:00,Programming Lab,1.0,15.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-26,0 days 16:00:00,0 days 19:00:00,Workshop,3.0,16.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-26,0 days 09:00:00,0 days 10:00:00,Programming Lab,1.0,9.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-26,0 days 15:00:00,0 days 16:00:00,Experiment,1.0,15.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-26,0 days 12:00:00,0 days 14:00:00,Experiment,2.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-26,0 days 15:00:00,0 days 17:00:00,Group Study,2.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-26,0 days 09:00:00,0 days 12:00:00,Group Study,3.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-26,0 days 15:00:00,0 days 18:00:00,Study,3.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-26,0 days 11:00:00,0 days 13:00:00,Group Study,2.0,11.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-26,0 days 10:00:00,0 days 12:00:00,Club Meeting,2.0,10.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-27,0 days 11:00:00,0 days 14:00:00,Tutorial,3.0,11.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-27,0 days 17:00:00,0 days 18:00:00,Seminar,1.0,17.0,0 day,0 day,True,No Event,False
+CR-101,2026-02-27,0 days 10:00:00,0 days 11:00:00,Make-up Class,1.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-02-27,0 days 10:00:00,0 days 11:00:00,Lecture,1.0,10.0,0 day,0 day,True,No Event,False
+CR-201,2026-02-27,0 days 08:00:00,0 days 09:00:00,Seminar,1.0,8.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-27,0 days 10:00:00,0 days 11:00:00,Seminar,1.0,10.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-27,0 days 16:00:00,0 days 17:00:00,Make-up Class,1.0,16.0,0 day,0 day,True,No Event,False
+CR-202,2026-02-27,0 days 13:00:00,0 days 15:00:00,Tutorial,2.0,13.0,0 day,0 day,True,No Event,False
+LAB-1,2026-02-27,0 days 13:00:00,0 days 14:00:00,Programming Lab,1.0,13.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-27,0 days 10:00:00,0 days 12:00:00,Practical Lab,2.0,10.0,0 day,0 day,True,No Event,False
+LAB-2,2026-02-27,0 days 12:00:00,0 days 14:00:00,Practical Lab,2.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-27,0 days 17:00:00,0 days 18:00:00,Group Study,1.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-27,0 days 08:00:00,0 days 11:00:00,Study,3.0,8.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-27,0 days 13:00:00,0 days 14:00:00,Study,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-02-27,0 days 10:00:00,0 days 12:00:00,Reading Session,2.0,10.0,0 day,0 day,True,No Event,False
+AUD-1,2026-02-27,0 days 08:00:00,0 days 10:00:00,Cultural Program,2.0,8.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-02-27,0 days 17:00:00,0 days 19:00:00,Student Activity,2.0,17.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-02,0 days 13:00:00,0 days 15:00:00,Make-up Class,2.0,13.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-02,0 days 12:00:00,0 days 14:00:00,Seminar,2.0,12.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-02,0 days 16:00:00,0 days 17:00:00,Tutorial,1.0,16.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-02,0 days 14:00:00,0 days 15:00:00,Seminar,1.0,14.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-02,0 days 09:00:00,0 days 11:00:00,Lecture,2.0,9.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-02,0 days 12:00:00,0 days 14:00:00,Seminar,2.0,12.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-02,0 days 11:00:00,0 days 12:00:00,Seminar,1.0,11.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-02,0 days 12:00:00,0 days 15:00:00,Tutorial,3.0,12.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-02,0 days 12:00:00,0 days 13:00:00,Tutorial,1.0,12.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-02,0 days 11:00:00,0 days 13:00:00,Workshop,2.0,11.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-02,0 days 14:00:00,0 days 15:00:00,Practical Exam,1.0,14.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-02,0 days 11:00:00,0 days 12:00:00,Practical Exam,1.0,11.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-02,0 days 15:00:00,0 days 17:00:00,Lab Assessment,2.0,15.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-02,0 days 13:00:00,0 days 15:00:00,Practical Lab,2.0,13.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-02,0 days 15:00:00,0 days 17:00:00,Practical Lab,2.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-02,0 days 14:00:00,0 days 15:00:00,Study,1.0,14.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-02,0 days 10:00:00,0 days 11:00:00,Group Study,1.0,10.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-02,0 days 15:00:00,0 days 16:00:00,Study,1.0,15.0,0 day,0 day,True,No Event,False
+SEM-1,2026-03-02,0 days 10:00:00,0 days 11:00:00,Department Meeting,1.0,10.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-02,0 days 13:00:00,0 days 14:00:00,Informal Study,1.0,13.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-02,0 days 13:00:00,0 days 15:00:00,Club Meeting,2.0,13.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-03,0 days 10:00:00,0 days 11:00:00,Seminar,1.0,10.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-03,0 days 10:00:00,0 days 12:00:00,Lecture,2.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-03,0 days 14:00:00,0 days 16:00:00,Lecture,2.0,14.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-03,0 days 13:00:00,0 days 14:00:00,Tutorial,1.0,13.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-03,0 days 16:00:00,0 days 17:00:00,Tutorial,1.0,16.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-03,0 days 12:00:00,0 days 14:00:00,Tutorial,2.0,12.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-03,0 days 17:00:00,0 days 19:00:00,Seminar,2.0,17.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-03,0 days 16:00:00,0 days 19:00:00,Practical Exam,3.0,16.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-03,0 days 12:00:00,0 days 14:00:00,Programming Lab,2.0,12.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-03,0 days 17:00:00,0 days 19:00:00,Experiment,2.0,17.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-03,0 days 09:00:00,0 days 10:00:00,Practical Lab,1.0,9.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-03,0 days 09:00:00,0 days 12:00:00,Experiment,3.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-03,0 days 12:00:00,0 days 14:00:00,Study,2.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-03,0 days 12:00:00,0 days 14:00:00,Reading Session,2.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-03,0 days 08:00:00,0 days 10:00:00,Group Study,2.0,8.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-03,0 days 10:00:00,0 days 12:00:00,Club Meeting,2.0,10.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-03,0 days 14:00:00,0 days 16:00:00,Club Meeting,2.0,14.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-04,0 days 10:00:00,0 days 13:00:00,Lecture,3.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-04,0 days 15:00:00,0 days 16:00:00,Tutorial,1.0,15.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-04,0 days 09:00:00,0 days 11:00:00,Tutorial,2.0,9.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-04,0 days 16:00:00,0 days 19:00:00,Tutorial,3.0,16.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-04,0 days 08:00:00,0 days 10:00:00,Make-up Class,2.0,8.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-04,0 days 12:00:00,0 days 13:00:00,Lecture,1.0,12.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-04,0 days 08:00:00,0 days 10:00:00,Tutorial,2.0,8.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-04,0 days 13:00:00,0 days 14:00:00,Lecture,1.0,13.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-04,0 days 14:00:00,0 days 15:00:00,Seminar,1.0,14.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-04,0 days 13:00:00,0 days 14:00:00,Practical Exam,1.0,13.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-04,0 days 08:00:00,0 days 09:00:00,Practical Exam,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-04,0 days 17:00:00,0 days 18:00:00,Experiment,1.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-04,0 days 17:00:00,0 days 19:00:00,Reading Session,2.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-04,0 days 13:00:00,0 days 15:00:00,Reading Session,2.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-04,0 days 16:00:00,0 days 17:00:00,Study,1.0,16.0,0 day,0 day,True,No Event,False
+AUD-1,2026-03-04,0 days 14:00:00,0 days 17:00:00,College Event,3.0,14.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-04,0 days 15:00:00,0 days 16:00:00,Student Activity,1.0,15.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-04,0 days 10:00:00,0 days 11:00:00,Informal Study,1.0,10.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-05,0 days 11:00:00,0 days 12:00:00,Lecture,1.0,11.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-05,0 days 11:00:00,0 days 12:00:00,Tutorial,1.0,11.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-05,0 days 16:00:00,0 days 19:00:00,Lecture,3.0,16.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-05,0 days 17:00:00,0 days 19:00:00,Make-up Class,2.0,17.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-05,0 days 16:00:00,0 days 17:00:00,Seminar,1.0,16.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-05,0 days 15:00:00,0 days 16:00:00,Lecture,1.0,15.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-05,0 days 17:00:00,0 days 18:00:00,Make-up Class,1.0,17.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-05,0 days 17:00:00,0 days 18:00:00,Seminar,1.0,17.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-05,0 days 11:00:00,0 days 12:00:00,Tutorial,1.0,11.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-05,0 days 10:00:00,0 days 12:00:00,Programming Lab,2.0,10.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-05,0 days 09:00:00,0 days 10:00:00,Experiment,1.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-05,0 days 09:00:00,0 days 11:00:00,Study,2.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-05,0 days 12:00:00,0 days 13:00:00,Study,1.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-05,0 days 11:00:00,0 days 12:00:00,Reading Session,1.0,11.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-05,0 days 08:00:00,0 days 10:00:00,Group Study,2.0,8.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-05,0 days 13:00:00,0 days 15:00:00,Informal Study,2.0,13.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-05,0 days 14:00:00,0 days 17:00:00,Club Meeting,3.0,14.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-06,0 days 17:00:00,0 days 18:00:00,Tutorial,1.0,17.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-06,0 days 16:00:00,0 days 17:00:00,Make-up Class,1.0,16.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-06,0 days 10:00:00,0 days 11:00:00,Make-up Class,1.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-06,0 days 13:00:00,0 days 15:00:00,Tutorial,2.0,13.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-06,0 days 15:00:00,0 days 17:00:00,Seminar,2.0,15.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-06,0 days 09:00:00,0 days 10:00:00,Make-up Class,1.0,9.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-06,0 days 08:00:00,0 days 09:00:00,Practical Exam,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-06,0 days 10:00:00,0 days 11:00:00,Practical Exam,1.0,10.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-06,0 days 12:00:00,0 days 15:00:00,Practical Exam,3.0,12.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-06,0 days 17:00:00,0 days 18:00:00,Practical Lab,1.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-06,0 days 15:00:00,0 days 16:00:00,Reading Session,1.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-06,0 days 17:00:00,0 days 18:00:00,Group Study,1.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-06,0 days 09:00:00,0 days 10:00:00,Study,1.0,9.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-06,0 days 10:00:00,0 days 12:00:00,Club Meeting,2.0,10.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-09,0 days 16:00:00,0 days 17:00:00,Lecture,1.0,16.0,0 day,0 day,True,Campus Event,False
+CR-102,2026-03-09,0 days 09:00:00,0 days 10:00:00,Lecture,1.0,9.0,0 day,0 day,True,Campus Event,False
+CR-102,2026-03-09,0 days 09:00:00,0 days 11:00:00,Lecture,2.0,9.0,0 day,0 day,True,Campus Event,False
+CR-201,2026-03-09,0 days 17:00:00,0 days 18:00:00,Seminar,1.0,17.0,0 day,0 day,True,Campus Event,False
+CR-202,2026-03-09,0 days 16:00:00,0 days 18:00:00,Lecture,2.0,16.0,0 day,0 day,True,Campus Event,False
+CR-202,2026-03-09,0 days 12:00:00,0 days 14:00:00,Lecture,2.0,12.0,0 day,0 day,True,Campus Event,False
+LAB-1,2026-03-09,0 days 17:00:00,0 days 19:00:00,Programming Lab,2.0,17.0,0 day,0 day,True,Campus Event,False
+LAB-1,2026-03-09,0 days 14:00:00,0 days 15:00:00,Workshop,1.0,14.0,0 day,0 day,True,Campus Event,False
+LAB-2,2026-03-09,0 days 11:00:00,0 days 12:00:00,Experiment,1.0,11.0,0 day,0 day,True,Campus Event,False
+LAB-2,2026-03-09,0 days 14:00:00,0 days 15:00:00,Lab Assessment,1.0,14.0,0 day,0 day,True,Campus Event,False
+LIB-MAIN,2026-03-09,0 days 08:00:00,0 days 10:00:00,Study,2.0,8.0,0 day,0 day,True,Campus Event,False
+LIB-MAIN,2026-03-09,0 days 11:00:00,0 days 13:00:00,Study,2.0,11.0,0 day,0 day,True,Campus Event,False
+LIB-MAIN,2026-03-09,0 days 10:00:00,0 days 11:00:00,Reading Session,1.0,10.0,0 day,0 day,True,Campus Event,False
+LIB-MAIN,2026-03-09,0 days 10:00:00,0 days 12:00:00,Study,2.0,10.0,0 day,0 day,True,Campus Event,False
+SEM-1,2026-03-09,0 days 09:00:00,0 days 12:00:00,Workshop,3.0,9.0,0 day,0 day,True,Campus Event,False
+SEM-1,2026-03-09,0 days 11:00:00,0 days 13:00:00,Guest Lecture,2.0,11.0,0 day,0 day,True,Campus Event,False
+AUD-1,2026-03-09,0 days 16:00:00,0 days 18:00:00,Cultural Program,2.0,16.0,0 day,0 day,True,Campus Event,False
+AUD-1,2026-03-09,0 days 11:00:00,0 days 13:00:00,College Event,2.0,11.0,0 day,0 day,True,Campus Event,False
+COMMON-1,2026-03-09,0 days 09:00:00,0 days 10:00:00,Club Meeting,1.0,9.0,0 day,0 day,True,Campus Event,False
+COMMON-1,2026-03-09,0 days 13:00:00,0 days 14:00:00,Student Activity,1.0,13.0,0 day,0 day,True,Campus Event,False
+CR-101,2026-03-10,0 days 14:00:00,0 days 15:00:00,Lecture,1.0,14.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-10,0 days 15:00:00,0 days 16:00:00,Seminar,1.0,15.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-10,0 days 10:00:00,0 days 11:00:00,Seminar,1.0,10.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-10,0 days 16:00:00,0 days 18:00:00,Seminar,2.0,16.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-10,0 days 12:00:00,0 days 14:00:00,Seminar,2.0,12.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-10,0 days 13:00:00,0 days 15:00:00,Lecture,2.0,13.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-10,0 days 14:00:00,0 days 15:00:00,Tutorial,1.0,14.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-10,0 days 17:00:00,0 days 18:00:00,Practical Exam,1.0,17.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-10,0 days 13:00:00,0 days 15:00:00,Experiment,2.0,13.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-10,0 days 15:00:00,0 days 18:00:00,Practical Lab,3.0,15.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-10,0 days 16:00:00,0 days 17:00:00,Lab Assessment,1.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-10,0 days 14:00:00,0 days 17:00:00,Group Study,3.0,14.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-10,0 days 15:00:00,0 days 16:00:00,Study,1.0,15.0,0 day,0 day,True,No Event,False
+SEM-1,2026-03-10,0 days 11:00:00,0 days 14:00:00,Workshop,3.0,11.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-10,0 days 12:00:00,0 days 15:00:00,Informal Study,3.0,12.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-10,0 days 12:00:00,0 days 14:00:00,Club Meeting,2.0,12.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-11,0 days 15:00:00,0 days 16:00:00,Make-up Class,1.0,15.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-11,0 days 09:00:00,0 days 11:00:00,Make-up Class,2.0,9.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-11,0 days 09:00:00,0 days 11:00:00,Lecture,2.0,9.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-11,0 days 14:00:00,0 days 17:00:00,Lecture,3.0,14.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-11,0 days 17:00:00,0 days 18:00:00,Tutorial,1.0,17.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-11,0 days 16:00:00,0 days 18:00:00,Seminar,2.0,16.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-11,0 days 10:00:00,0 days 11:00:00,Tutorial,1.0,10.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-11,0 days 09:00:00,0 days 11:00:00,Tutorial,2.0,9.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-11,0 days 10:00:00,0 days 12:00:00,Tutorial,2.0,10.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-11,0 days 13:00:00,0 days 15:00:00,Tutorial,2.0,13.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-11,0 days 14:00:00,0 days 15:00:00,Seminar,1.0,14.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-11,0 days 12:00:00,0 days 13:00:00,Practical Exam,1.0,12.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-11,0 days 16:00:00,0 days 18:00:00,Practical Exam,2.0,16.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-11,0 days 09:00:00,0 days 10:00:00,Workshop,1.0,9.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-11,0 days 16:00:00,0 days 19:00:00,Lab Assessment,3.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-11,0 days 15:00:00,0 days 17:00:00,Study,2.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-11,0 days 16:00:00,0 days 17:00:00,Group Study,1.0,16.0,0 day,0 day,True,No Event,False
+AUD-1,2026-03-11,0 days 13:00:00,0 days 14:00:00,College Event,1.0,13.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-11,0 days 10:00:00,0 days 12:00:00,Club Meeting,2.0,10.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-11,0 days 15:00:00,0 days 16:00:00,Club Meeting,1.0,15.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-12,0 days 14:00:00,0 days 15:00:00,Lecture,1.0,14.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-12,0 days 11:00:00,0 days 14:00:00,Seminar,3.0,11.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-12,0 days 09:00:00,0 days 10:00:00,Seminar,1.0,9.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-12,0 days 08:00:00,0 days 09:00:00,Lecture,1.0,8.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-12,0 days 10:00:00,0 days 11:00:00,Tutorial,1.0,10.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-12,0 days 10:00:00,0 days 11:00:00,Lecture,1.0,10.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-12,0 days 13:00:00,0 days 15:00:00,Tutorial,2.0,13.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-12,0 days 14:00:00,0 days 16:00:00,Make-up Class,2.0,14.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-12,0 days 14:00:00,0 days 15:00:00,Programming Lab,1.0,14.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-12,0 days 15:00:00,0 days 16:00:00,Programming Lab,1.0,15.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-12,0 days 11:00:00,0 days 13:00:00,Programming Lab,2.0,11.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-12,0 days 10:00:00,0 days 12:00:00,Experiment,2.0,10.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-12,0 days 12:00:00,0 days 13:00:00,Experiment,1.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-12,0 days 11:00:00,0 days 12:00:00,Reading Session,1.0,11.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-12,0 days 12:00:00,0 days 13:00:00,Study,1.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-12,0 days 14:00:00,0 days 16:00:00,Reading Session,2.0,14.0,0 day,0 day,True,No Event,False
+SEM-1,2026-03-12,0 days 10:00:00,0 days 12:00:00,Workshop,2.0,10.0,0 day,0 day,True,No Event,False
+AUD-1,2026-03-12,0 days 13:00:00,0 days 14:00:00,College Event,1.0,13.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-12,0 days 09:00:00,0 days 10:00:00,Student Activity,1.0,9.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-12,0 days 16:00:00,0 days 18:00:00,Informal Study,2.0,16.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-13,0 days 16:00:00,0 days 17:00:00,Tutorial,1.0,16.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-13,0 days 10:00:00,0 days 11:00:00,Seminar,1.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-13,0 days 10:00:00,0 days 13:00:00,Make-up Class,3.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-13,0 days 12:00:00,0 days 13:00:00,Make-up Class,1.0,12.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-13,0 days 17:00:00,0 days 18:00:00,Seminar,1.0,17.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-13,0 days 11:00:00,0 days 12:00:00,Make-up Class,1.0,11.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-13,0 days 10:00:00,0 days 11:00:00,Seminar,1.0,10.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-13,0 days 14:00:00,0 days 17:00:00,Tutorial,3.0,14.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-13,0 days 12:00:00,0 days 13:00:00,Make-up Class,1.0,12.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-13,0 days 15:00:00,0 days 18:00:00,Make-up Class,3.0,15.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-13,0 days 15:00:00,0 days 16:00:00,Make-up Class,1.0,15.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-13,0 days 12:00:00,0 days 13:00:00,Workshop,1.0,12.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-13,0 days 12:00:00,0 days 13:00:00,Experiment,1.0,12.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-13,0 days 17:00:00,0 days 18:00:00,Lab Assessment,1.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-13,0 days 12:00:00,0 days 15:00:00,Study,3.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-13,0 days 09:00:00,0 days 10:00:00,Study,1.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-13,0 days 11:00:00,0 days 12:00:00,Reading Session,1.0,11.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-13,0 days 08:00:00,0 days 09:00:00,Study,1.0,8.0,0 day,0 day,True,No Event,False
+SEM-1,2026-03-13,0 days 08:00:00,0 days 10:00:00,Department Meeting,2.0,8.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-13,0 days 10:00:00,0 days 11:00:00,Club Meeting,1.0,10.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-16,0 days 10:00:00,0 days 11:00:00,Lecture,1.0,10.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-16,0 days 15:00:00,0 days 17:00:00,Make-up Class,2.0,15.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-16,0 days 16:00:00,0 days 17:00:00,Lecture,1.0,16.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-16,0 days 09:00:00,0 days 10:00:00,Make-up Class,1.0,9.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-16,0 days 13:00:00,0 days 15:00:00,Tutorial,2.0,13.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-16,0 days 12:00:00,0 days 13:00:00,Seminar,1.0,12.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-16,0 days 08:00:00,0 days 11:00:00,Tutorial,3.0,8.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-16,0 days 10:00:00,0 days 11:00:00,Programming Lab,1.0,10.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-16,0 days 11:00:00,0 days 13:00:00,Programming Lab,2.0,11.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-16,0 days 17:00:00,0 days 18:00:00,Workshop,1.0,17.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-16,0 days 08:00:00,0 days 09:00:00,Lab Assessment,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-16,0 days 13:00:00,0 days 15:00:00,Lab Assessment,2.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-16,0 days 13:00:00,0 days 14:00:00,Group Study,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-16,0 days 14:00:00,0 days 15:00:00,Group Study,1.0,14.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-16,0 days 13:00:00,0 days 14:00:00,Study,1.0,13.0,0 day,0 day,True,No Event,False
+AUD-1,2026-03-16,0 days 15:00:00,0 days 16:00:00,College Event,1.0,15.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-16,0 days 09:00:00,0 days 10:00:00,Student Activity,1.0,9.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-17,0 days 10:00:00,0 days 11:00:00,Lecture,1.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-17,0 days 17:00:00,0 days 18:00:00,Lecture,1.0,17.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-17,0 days 13:00:00,0 days 14:00:00,Lecture,1.0,13.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-17,0 days 09:00:00,0 days 11:00:00,Seminar,2.0,9.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-17,0 days 11:00:00,0 days 13:00:00,Tutorial,2.0,11.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-17,0 days 17:00:00,0 days 18:00:00,Seminar,1.0,17.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-17,0 days 15:00:00,0 days 16:00:00,Make-up Class,1.0,15.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-17,0 days 15:00:00,0 days 16:00:00,Seminar,1.0,15.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-17,0 days 17:00:00,0 days 19:00:00,Programming Lab,2.0,17.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-17,0 days 10:00:00,0 days 12:00:00,Practical Exam,2.0,10.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-17,0 days 13:00:00,0 days 14:00:00,Practical Lab,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-17,0 days 13:00:00,0 days 14:00:00,Group Study,1.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-17,0 days 10:00:00,0 days 13:00:00,Study,3.0,10.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-17,0 days 12:00:00,0 days 14:00:00,Reading Session,2.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-17,0 days 08:00:00,0 days 09:00:00,Group Study,1.0,8.0,0 day,0 day,True,No Event,False
+SEM-1,2026-03-17,0 days 17:00:00,0 days 18:00:00,Workshop,1.0,17.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-17,0 days 08:00:00,0 days 10:00:00,Informal Study,2.0,8.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-17,0 days 16:00:00,0 days 17:00:00,Club Meeting,1.0,16.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-18,0 days 11:00:00,0 days 12:00:00,Make-up Class,1.0,11.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-18,0 days 10:00:00,0 days 13:00:00,Tutorial,3.0,10.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-18,0 days 17:00:00,0 days 19:00:00,Tutorial,2.0,17.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-18,0 days 15:00:00,0 days 16:00:00,Lecture,1.0,15.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-18,0 days 16:00:00,0 days 17:00:00,Seminar,1.0,16.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-18,0 days 16:00:00,0 days 19:00:00,Tutorial,3.0,16.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-18,0 days 12:00:00,0 days 14:00:00,Make-up Class,2.0,12.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-18,0 days 09:00:00,0 days 10:00:00,Programming Lab,1.0,9.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-18,0 days 12:00:00,0 days 14:00:00,Workshop,2.0,12.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-18,0 days 08:00:00,0 days 10:00:00,Experiment,2.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-18,0 days 08:00:00,0 days 11:00:00,Practical Lab,3.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-18,0 days 12:00:00,0 days 14:00:00,Experiment,2.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-18,0 days 15:00:00,0 days 16:00:00,Study,1.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-18,0 days 16:00:00,0 days 17:00:00,Study,1.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-18,0 days 10:00:00,0 days 11:00:00,Study,1.0,10.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-18,0 days 15:00:00,0 days 16:00:00,Reading Session,1.0,15.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-18,0 days 15:00:00,0 days 17:00:00,Club Meeting,2.0,15.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-19,0 days 08:00:00,0 days 11:00:00,Seminar,3.0,8.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-19,0 days 14:00:00,0 days 16:00:00,Lecture,2.0,14.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-19,0 days 17:00:00,0 days 19:00:00,Tutorial,2.0,17.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-19,0 days 14:00:00,0 days 15:00:00,Lecture,1.0,14.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-19,0 days 12:00:00,0 days 13:00:00,Tutorial,1.0,12.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-19,0 days 10:00:00,0 days 12:00:00,Seminar,2.0,10.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-19,0 days 12:00:00,0 days 14:00:00,Make-up Class,2.0,12.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-19,0 days 08:00:00,0 days 09:00:00,Make-up Class,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-19,0 days 17:00:00,0 days 18:00:00,Programming Lab,1.0,17.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-19,0 days 16:00:00,0 days 17:00:00,Workshop,1.0,16.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-19,0 days 16:00:00,0 days 19:00:00,Practical Lab,3.0,16.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-19,0 days 15:00:00,0 days 16:00:00,Lab Assessment,1.0,15.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-19,0 days 15:00:00,0 days 16:00:00,Experiment,1.0,15.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-19,0 days 09:00:00,0 days 12:00:00,Study,3.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-19,0 days 12:00:00,0 days 14:00:00,Reading Session,2.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-19,0 days 09:00:00,0 days 10:00:00,Group Study,1.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-19,0 days 08:00:00,0 days 11:00:00,Study,3.0,8.0,0 day,0 day,True,No Event,False
+SEM-1,2026-03-19,0 days 14:00:00,0 days 15:00:00,Department Meeting,1.0,14.0,0 day,0 day,True,No Event,False
+AUD-1,2026-03-19,0 days 08:00:00,0 days 09:00:00,Cultural Program,1.0,8.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-19,0 days 12:00:00,0 days 14:00:00,Student Activity,2.0,12.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-20,0 days 08:00:00,0 days 10:00:00,Seminar,2.0,8.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-20,0 days 15:00:00,0 days 18:00:00,Make-up Class,3.0,15.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-20,0 days 15:00:00,0 days 17:00:00,Seminar,2.0,15.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-20,0 days 09:00:00,0 days 10:00:00,Lecture,1.0,9.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-20,0 days 16:00:00,0 days 17:00:00,Make-up Class,1.0,16.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-20,0 days 12:00:00,0 days 13:00:00,Make-up Class,1.0,12.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-20,0 days 15:00:00,0 days 16:00:00,Lecture,1.0,15.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-20,0 days 12:00:00,0 days 14:00:00,Seminar,2.0,12.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-20,0 days 16:00:00,0 days 18:00:00,Make-up Class,2.0,16.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-20,0 days 12:00:00,0 days 15:00:00,Lecture,3.0,12.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-20,0 days 11:00:00,0 days 12:00:00,Make-up Class,1.0,11.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-20,0 days 12:00:00,0 days 14:00:00,Lecture,2.0,12.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-20,0 days 14:00:00,0 days 15:00:00,Practical Exam,1.0,14.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-20,0 days 11:00:00,0 days 13:00:00,Practical Exam,2.0,11.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-20,0 days 14:00:00,0 days 16:00:00,Experiment,2.0,14.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-20,0 days 10:00:00,0 days 11:00:00,Practical Lab,1.0,10.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-20,0 days 17:00:00,0 days 18:00:00,Experiment,1.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-20,0 days 11:00:00,0 days 14:00:00,Group Study,3.0,11.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-20,0 days 17:00:00,0 days 19:00:00,Group Study,2.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-20,0 days 09:00:00,0 days 10:00:00,Study,1.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-20,0 days 15:00:00,0 days 16:00:00,Study,1.0,15.0,0 day,0 day,True,No Event,False
+SEM-1,2026-03-20,0 days 15:00:00,0 days 16:00:00,Guest Lecture,1.0,15.0,0 day,0 day,True,No Event,False
+AUD-1,2026-03-20,0 days 08:00:00,0 days 09:00:00,Cultural Program,1.0,8.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-20,0 days 16:00:00,0 days 19:00:00,Club Meeting,3.0,16.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-23,0 days 14:00:00,0 days 15:00:00,Lecture,1.0,14.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-23,0 days 10:00:00,0 days 13:00:00,Tutorial,3.0,10.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-23,0 days 17:00:00,0 days 19:00:00,Lecture,2.0,17.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-23,0 days 12:00:00,0 days 15:00:00,Make-up Class,3.0,12.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-23,0 days 09:00:00,0 days 10:00:00,Lecture,1.0,9.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-23,0 days 08:00:00,0 days 09:00:00,Tutorial,1.0,8.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-23,0 days 10:00:00,0 days 12:00:00,Make-up Class,2.0,10.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-23,0 days 14:00:00,0 days 15:00:00,Workshop,1.0,14.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-23,0 days 08:00:00,0 days 09:00:00,Workshop,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-23,0 days 17:00:00,0 days 18:00:00,Practical Lab,1.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-23,0 days 16:00:00,0 days 17:00:00,Reading Session,1.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-23,0 days 09:00:00,0 days 10:00:00,Group Study,1.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-23,0 days 11:00:00,0 days 14:00:00,Reading Session,3.0,11.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-23,0 days 09:00:00,0 days 12:00:00,Reading Session,3.0,9.0,0 day,0 day,True,No Event,False
+SEM-1,2026-03-23,0 days 15:00:00,0 days 16:00:00,Workshop,1.0,15.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-23,0 days 08:00:00,0 days 09:00:00,Informal Study,1.0,8.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-24,0 days 16:00:00,0 days 19:00:00,Seminar,3.0,16.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-24,0 days 15:00:00,0 days 16:00:00,Lecture,1.0,15.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-24,0 days 14:00:00,0 days 17:00:00,Seminar,3.0,14.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-24,0 days 14:00:00,0 days 15:00:00,Tutorial,1.0,14.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-24,0 days 17:00:00,0 days 19:00:00,Make-up Class,2.0,17.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-24,0 days 10:00:00,0 days 12:00:00,Tutorial,2.0,10.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-24,0 days 16:00:00,0 days 17:00:00,Practical Exam,1.0,16.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-24,0 days 12:00:00,0 days 13:00:00,Practical Exam,1.0,12.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-24,0 days 11:00:00,0 days 12:00:00,Experiment,1.0,11.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-24,0 days 17:00:00,0 days 19:00:00,Reading Session,2.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-24,0 days 12:00:00,0 days 15:00:00,Study,3.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-24,0 days 17:00:00,0 days 18:00:00,Group Study,1.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-24,0 days 12:00:00,0 days 14:00:00,Group Study,2.0,12.0,0 day,0 day,True,No Event,False
+AUD-1,2026-03-24,0 days 09:00:00,0 days 10:00:00,College Event,1.0,9.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-24,0 days 11:00:00,0 days 13:00:00,Club Meeting,2.0,11.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-25,0 days 14:00:00,0 days 15:00:00,Tutorial,1.0,14.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-25,0 days 16:00:00,0 days 17:00:00,Tutorial,1.0,16.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-25,0 days 09:00:00,0 days 10:00:00,Tutorial,1.0,9.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-25,0 days 12:00:00,0 days 13:00:00,Tutorial,1.0,12.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-25,0 days 15:00:00,0 days 17:00:00,Seminar,2.0,15.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-25,0 days 16:00:00,0 days 17:00:00,Lecture,1.0,16.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-25,0 days 13:00:00,0 days 15:00:00,Tutorial,2.0,13.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-25,0 days 11:00:00,0 days 13:00:00,Programming Lab,2.0,11.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-25,0 days 15:00:00,0 days 16:00:00,Lab Assessment,1.0,15.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-25,0 days 13:00:00,0 days 15:00:00,Experiment,2.0,13.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-25,0 days 14:00:00,0 days 16:00:00,Reading Session,2.0,14.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-25,0 days 16:00:00,0 days 17:00:00,Study,1.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-25,0 days 15:00:00,0 days 16:00:00,Reading Session,1.0,15.0,0 day,0 day,True,No Event,False
+SEM-1,2026-03-25,0 days 11:00:00,0 days 12:00:00,Workshop,1.0,11.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-25,0 days 16:00:00,0 days 18:00:00,Club Meeting,2.0,16.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-26,0 days 12:00:00,0 days 14:00:00,Tutorial,2.0,12.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-26,0 days 11:00:00,0 days 13:00:00,Seminar,2.0,11.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-26,0 days 17:00:00,0 days 19:00:00,Seminar,2.0,17.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-26,0 days 17:00:00,0 days 18:00:00,Lecture,1.0,17.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-26,0 days 10:00:00,0 days 11:00:00,Make-up Class,1.0,10.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-26,0 days 14:00:00,0 days 15:00:00,Lecture,1.0,14.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-26,0 days 11:00:00,0 days 13:00:00,Tutorial,2.0,11.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-26,0 days 14:00:00,0 days 16:00:00,Tutorial,2.0,14.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-26,0 days 15:00:00,0 days 18:00:00,Seminar,3.0,15.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-26,0 days 14:00:00,0 days 15:00:00,Practical Exam,1.0,14.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-26,0 days 14:00:00,0 days 16:00:00,Programming Lab,2.0,14.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-26,0 days 17:00:00,0 days 19:00:00,Experiment,2.0,17.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-26,0 days 10:00:00,0 days 11:00:00,Lab Assessment,1.0,10.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-26,0 days 12:00:00,0 days 13:00:00,Lab Assessment,1.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-26,0 days 16:00:00,0 days 17:00:00,Study,1.0,16.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-26,0 days 10:00:00,0 days 13:00:00,Reading Session,3.0,10.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-26,0 days 12:00:00,0 days 14:00:00,Study,2.0,12.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-26,0 days 11:00:00,0 days 13:00:00,Study,2.0,11.0,0 day,0 day,True,No Event,False
+AUD-1,2026-03-26,0 days 12:00:00,0 days 13:00:00,Cultural Program,1.0,12.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-26,0 days 12:00:00,0 days 14:00:00,Student Activity,2.0,12.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-27,0 days 09:00:00,0 days 11:00:00,Tutorial,2.0,9.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-27,0 days 11:00:00,0 days 14:00:00,Tutorial,3.0,11.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-27,0 days 09:00:00,0 days 10:00:00,Seminar,1.0,9.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-27,0 days 16:00:00,0 days 17:00:00,Seminar,1.0,16.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-27,0 days 08:00:00,0 days 09:00:00,Seminar,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-27,0 days 16:00:00,0 days 19:00:00,Practical Exam,3.0,16.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-27,0 days 16:00:00,0 days 19:00:00,Programming Lab,3.0,16.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-27,0 days 08:00:00,0 days 09:00:00,Programming Lab,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-27,0 days 16:00:00,0 days 19:00:00,Lab Assessment,3.0,16.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-27,0 days 10:00:00,0 days 13:00:00,Lab Assessment,3.0,10.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-27,0 days 11:00:00,0 days 13:00:00,Experiment,2.0,11.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-27,0 days 17:00:00,0 days 18:00:00,Study,1.0,17.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-27,0 days 08:00:00,0 days 11:00:00,Group Study,3.0,8.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-27,0 days 10:00:00,0 days 12:00:00,Reading Session,2.0,10.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-27,0 days 14:00:00,0 days 16:00:00,Group Study,2.0,14.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-27,0 days 14:00:00,0 days 17:00:00,Informal Study,3.0,14.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-27,0 days 13:00:00,0 days 15:00:00,Student Activity,2.0,13.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-30,0 days 15:00:00,0 days 16:00:00,Tutorial,1.0,15.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-30,0 days 08:00:00,0 days 09:00:00,Make-up Class,1.0,8.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-30,0 days 14:00:00,0 days 17:00:00,Lecture,3.0,14.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-30,0 days 13:00:00,0 days 14:00:00,Tutorial,1.0,13.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-30,0 days 11:00:00,0 days 13:00:00,Seminar,2.0,11.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-30,0 days 10:00:00,0 days 11:00:00,Lecture,1.0,10.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-30,0 days 17:00:00,0 days 19:00:00,Seminar,2.0,17.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-30,0 days 10:00:00,0 days 12:00:00,Seminar,2.0,10.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-30,0 days 12:00:00,0 days 14:00:00,Tutorial,2.0,12.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-30,0 days 10:00:00,0 days 11:00:00,Seminar,1.0,10.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-30,0 days 13:00:00,0 days 16:00:00,Programming Lab,3.0,13.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-30,0 days 08:00:00,0 days 09:00:00,Practical Lab,1.0,8.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-30,0 days 14:00:00,0 days 17:00:00,Lab Assessment,3.0,14.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-30,0 days 10:00:00,0 days 13:00:00,Group Study,3.0,10.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-30,0 days 11:00:00,0 days 13:00:00,Study,2.0,11.0,0 day,0 day,True,No Event,False
+SEM-1,2026-03-30,0 days 13:00:00,0 days 14:00:00,Workshop,1.0,13.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-30,0 days 11:00:00,0 days 14:00:00,Club Meeting,3.0,11.0,0 day,0 day,True,No Event,False
+CR-101,2026-03-31,0 days 14:00:00,0 days 16:00:00,Seminar,2.0,14.0,0 day,0 day,True,No Event,False
+CR-102,2026-03-31,0 days 09:00:00,0 days 10:00:00,Tutorial,1.0,9.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-31,0 days 08:00:00,0 days 09:00:00,Lecture,1.0,8.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-31,0 days 12:00:00,0 days 15:00:00,Lecture,3.0,12.0,0 day,0 day,True,No Event,False
+CR-201,2026-03-31,0 days 08:00:00,0 days 10:00:00,Tutorial,2.0,8.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-31,0 days 09:00:00,0 days 10:00:00,Make-up Class,1.0,9.0,0 day,0 day,True,No Event,False
+CR-202,2026-03-31,0 days 13:00:00,0 days 15:00:00,Make-up Class,2.0,13.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-31,0 days 11:00:00,0 days 13:00:00,Programming Lab,2.0,11.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-31,0 days 09:00:00,0 days 11:00:00,Workshop,2.0,9.0,0 day,0 day,True,No Event,False
+LAB-1,2026-03-31,0 days 15:00:00,0 days 16:00:00,Programming Lab,1.0,15.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-31,0 days 15:00:00,0 days 17:00:00,Experiment,2.0,15.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-31,0 days 13:00:00,0 days 15:00:00,Experiment,2.0,13.0,0 day,0 day,True,No Event,False
+LAB-2,2026-03-31,0 days 09:00:00,0 days 11:00:00,Practical Lab,2.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-31,0 days 09:00:00,0 days 11:00:00,Study,2.0,9.0,0 day,0 day,True,No Event,False
+LIB-MAIN,2026-03-31,0 days 16:00:00,0 days 18:00:00,Group Study,2.0,16.0,0 day,0 day,True,No Event,False
+AUD-1,2026-03-31,0 days 14:00:00,0 days 15:00:00,Cultural Program,1.0,14.0,0 day,0 day,True,No Event,False
+COMMON-1,2026-03-31,0 days 15:00:00,0 days 17:00:00,Club Meeting,2.0,15.0,0 day,0 day,True,No Event,False

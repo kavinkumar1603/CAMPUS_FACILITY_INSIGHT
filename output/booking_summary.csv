@@ -1,0 +1,11 @@
+facility,booking_count,booked_hours,type,capacity,block
+AUD-1,31,46.0,Auditorium,250,E
+COMMON-1,92,158.0,Common Area,90,F
+CR-101,112,181.0,Classroom,60,A
+CR-102,115,193.0,Classroom,45,A
+CR-201,113,189.0,Classroom,80,B
+CR-202,122,191.0,Classroom,50,B
+LAB-1,122,195.0,Computer Lab,40,C
+LAB-2,122,203.0,Science Lab,35,C
+LIB-MAIN,185,290.0,Library,120,D
+SEM-1,30,57.0,Seminar Hall,100,E

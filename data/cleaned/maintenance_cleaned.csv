@@ -1,0 +1,25 @@
+facility,issue,downtime
+CR-101,Plumbing issue,2.2
+CR-102,Electrical fault,2.0
+CR-201,Projector failure,15.7
+CR-202,Lighting failure,0.9
+CR-202,Unknown Issue,14.3
+LAB-1,Lighting failure,
+LAB-1,Projector failure,1.7
+LAB-1,Plumbing issue,
+LAB-1,Lighting failure,3.3
+LAB-2,Network outage,8.1
+LAB-2,Plumbing issue,4.5
+LAB-2,Plumbing issue,3.5
+LIB-MAIN,Air conditioning issue,1.9
+SEM-1,Projector failure,5.3
+SEM-1,Furniture repair,1.3
+SEM-1,Projector failure,
+SEM-1,Furniture repair,3.5
+AUD-1,Electrical fault,5.2
+AUD-1,Plumbing issue,7.3
+AUD-1,Unknown Issue,6.5
+AUD-1,Network outage,3.4
+COMMON-1,Electrical fault,7.1
+COMMON-1,Lighting failure,7.8
+COMMON-1,Equipment calibration,9.3

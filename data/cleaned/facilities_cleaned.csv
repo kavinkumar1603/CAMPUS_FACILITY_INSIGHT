@@ -1,0 +1,11 @@
+facility,type,capacity,block
+CR-101,Classroom,60,A
+CR-102,Classroom,45,A
+CR-201,Classroom,80,B
+CR-202,Classroom,50,B
+LAB-1,Computer Lab,40,C
+LAB-2,Science Lab,35,C
+LIB-MAIN,Library,120,D
+SEM-1,Seminar Hall,100,E
+AUD-1,Auditorium,250,E
+COMMON-1,Common Area,90,F

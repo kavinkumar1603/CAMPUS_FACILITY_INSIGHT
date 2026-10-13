@@ -1,0 +1,11 @@
+facility,readings,average_occupancy,peak_occupancy,average_utilization_pct,peak_utilization_pct,over_capacity_readings,type,capacity,block
+LIB-MAIN,1882,55.82,156.0,46.52,130.0,67,Library,120,D
+SEM-1,1880,35.82,116.0,35.82,116.0,10,Seminar Hall,100,E
+CR-102,1888,15.14,47.0,33.64,104.44,1,Classroom,45,A
+CR-101,1879,19.9,72.0,33.17,120.0,3,Classroom,60,A
+LAB-1,1885,13.23,56.0,33.07,140.0,4,Computer Lab,40,C
+CR-202,1883,16.51,49.0,33.01,98.0,0,Classroom,50,B
+CR-201,1883,26.15,76.0,32.69,95.0,0,Classroom,80,B
+COMMON-1,1886,29.17,88.0,32.41,97.78,0,Common Area,90,F
+LAB-2,1882,11.28,33.0,32.23,94.29,0,Science Lab,35,C
+AUD-1,1882,28.52,252.0,11.41,100.8,1,Auditorium,250,E
